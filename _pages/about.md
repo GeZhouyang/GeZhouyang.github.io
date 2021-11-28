@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
+Welcome!
 I am a researcher in fluid mechanics.
-More specifically, I am interested in physical problems
-at the intersection of fluid mechanics and soft matter,
-e.g. self-organization of particles in Stokes flow and dynamics of active suspensions.
+Specifically, I am interested in the physics of complex fluids,
+such as dense particle suspensions, droplet emulsions, and biological fluids.
 The methods of inquiry are mainly computational.
-Feel free to contact me if you have any questions about my research
-or would like to collaborate on a project.
+Feel free to contact me for questions or collaborations.
 
 ## Current position
 

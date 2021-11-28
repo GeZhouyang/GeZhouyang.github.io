@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Gender: Male <br />
-Birth year: 1991 <br />
-Nationality: Chinese <br />
-Nickname: Anthony Ge <br />
-Address: 1053 - 6250 Applied Science Lane, Vancouver, BC, V6T 1Z4, Canada
+Zhouyang "Anthony" Ge (zhoge@mail.ubc.ca) <br />
+{{site.author.affiliation}},
+University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
+
 
 ## Education
 
