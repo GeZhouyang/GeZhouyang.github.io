@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "About me"
+excerpt: "Researcher in fluid mechanics"
 author_profile: true
 redirect_from:
   - /about/
