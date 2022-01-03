@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Zhouyang "Anthony" Ge (zhoge@mail.ubc.ca) <br />
-{{site.author.affiliation}},
+{{site.author.affiliation}} <br />
 University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
 
 
@@ -34,11 +34,10 @@ University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
 * Postdoc, University of British Columbia, Vancouver, BC, Canada (2020-)
   * Advisor: [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/)
 
-* Researcher, {{site.data.education.PhD.university}} (2015-2020)
-
 
 ## Awards and Honors
 
+* Research grant: International postdoc within natural and engineering sciences, Swedish Research Council (2021) [(Link)](https://www.vr.se/english/applying-for-funding/decisions/2021-08-25-international-postdoc-within-natural-and-engineering-sciences-autumn-call.html)
 * Tetra Pak Award in Computational Fluid Dynamics (CFD), Swedish National Committee
 for Theoretical and Applied Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
 * Outstanding graduate honor, Jilin University (2013)

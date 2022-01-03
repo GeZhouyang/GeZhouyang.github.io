@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
-I am a researcher in fluid mechanics.
-Specifically, I am interested in the physics of complex fluids,
-such as dense particle suspensions, droplet emulsions, and biological fluids.
-The methods of inquiry are mainly computational.
+Welcome to my website!
+Here, you will find brief information about me and my research.
+I am strongly interested in the application of fluid mechanics in biophysical problems.
 Feel free to contact me for questions or collaborations.
 
-## Current position
+## Profile
 
-Postdoctoral Research Fellow
-(advised by Prof. Gwynn Elfring),
-{{site.author.affiliation}}, University of British Columbia.
+* Current position: Postdoctoral research fellow
+* Host: Prof. Gwynn Elfring, University of British Columbia
+* Areas of interest: Fluid mechanics, Soft matter
+* Research methodology: Computational
+
 
 ## Gallery
 
@@ -29,4 +29,4 @@ Shown is an active suspension (positive shakers) at 40% volume fraction.
 
 ![droplets](images/cover_pic.png "Droplets")
 Droplets in homogeneous shear turbulence.
-This image was produced by Suhas Jain (then PhD student at Stanford) in 2018.
+This image was produced from a high-resolution simulation we did in 2018.
