@@ -37,7 +37,7 @@ University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
 
 ## Awards and Honors
 
-* Research grant: International postdoc within natural and engineering sciences, Swedish Research Council (2021) [(Link)](https://www.vr.se/english/applying-for-funding/decisions/2021-08-25-international-postdoc-within-natural-and-engineering-sciences-autumn-call.html)
+* Research grant: International postdoc within natural and engineering sciences, Swedish Research Council (2021) [(Link)](https://www.vr.se/english/swecris.html#/project/2021-06669_VR)
 * Tetra Pak Award in Computational Fluid Dynamics (CFD), Swedish National Committee
 for Theoretical and Applied Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
 * Outstanding graduate honor, Jilin University (2013)
