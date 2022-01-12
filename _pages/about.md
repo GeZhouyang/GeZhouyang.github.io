@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 Here, you will find brief information about me and my research.
-I am strongly interested in the application of fluid mechanics in biophysical problems.
+I am strongly interested in the application of fluid mechanics and scientific computing in biophysical problems.
 Feel free to contact me for questions or collaborations.
 
 ## Profile
@@ -29,4 +29,5 @@ Shown is an active suspension (positive shakers) at 40% volume fraction.
 
 ![droplets](images/cover_pic.png "Droplets")
 Droplets in homogeneous shear turbulence.
-This image was produced from a high-resolution simulation we did in 2018.
+This image was produced from a high-resolution simulation published
+[here](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/droplets-in-homogeneous-shear-turbulence/49BE8A80FEFCFB934104005EB74A7E69).

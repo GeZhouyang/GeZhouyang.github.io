@@ -30,3 +30,8 @@ author_profile: true
 
 * Illustrated Experiments in Fluid Mechanics: The NCFMF Book of Film Notes [(Link)](http://web.mit.edu/hml/notes.html)
 * Feynman's Messenger Lectures [(Link)](https://www.feynmanlectures.caltech.edu/messenger.html)
+
+## Local communities
+
+* St John's College [(Link)](https://stjohns.ubc.ca/)
+* Pacific Spirit Park Society [(Link)](http://pacificspiritparksociety.org/)

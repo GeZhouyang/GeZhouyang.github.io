@@ -41,7 +41,7 @@ University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
 * Tetra Pak Award in Computational Fluid Dynamics (CFD), Swedish National Committee
 for Theoretical and Applied Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
 * Outstanding graduate honor, Jilin University (2013)
-* National Scholarship (top 3%), Ministry of Education of China (2012)
+* National Scholarship (top 3%), Ministry of Education of China (2011)
 * First-class scholarship (top 10%), Jilin University (2010,2012)
 
 
