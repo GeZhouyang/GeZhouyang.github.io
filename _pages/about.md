@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 Here, you will find brief information about me and my research.
-I am strongly interested in the application of fluid mechanics and scientific computing in biophysical problems.
+I am strongly interested in the application of fluid mechanics and scientific computing in soft matter physics.
 Feel free to contact me for questions or collaborations.
 
 ## Profile
