@@ -33,6 +33,8 @@ author_profile: true
 
 ## Local communities
 
+* Soft Matter Group [(Link)](https://soft.mech.ubc.ca/)
+* Institute of Applied Mathematics [(Link)](https://www.iam.ubc.ca/)
 * Van der Fluids [(Link)](/vfc/)
 * St John's College [(Link)](https://stjohns.ubc.ca/)
 * Pacific Spirit Park Society [(Link)](http://pacificspiritparksociety.org/)
