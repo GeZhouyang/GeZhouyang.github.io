@@ -21,10 +21,9 @@ author_profile: true
 
 * arXiv [flu-dyn](https://arxiv.org/list/physics.flu-dyn/recent),
 [cond-mat](https://arxiv.org/list/cond-mat.soft/recent)
-* [APS Physics](https://physics.aps.org/)
-* [JFM](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/latest-issue)
-* [PNAS](https://www.pnas.org/)
-* [Nature Physics](https://www.nature.com/nphys/)
+* [Phys. Rev. Fluids](https://journals.aps.org/prfluids/)
+* [J. Fluid Mech.](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)
+* [J. Comput. Phys.](https://www.journals.elsevier.com/journal-of-computational-physics)
 
 ## Classics
 
@@ -35,6 +34,6 @@ author_profile: true
 
 * Soft Matter Group [(Link)](https://soft.mech.ubc.ca/)
 * Institute of Applied Mathematics [(Link)](https://www.iam.ubc.ca/)
-* Van der Fluids [(Link)](/vfc/)
+* Journal club [(Link)](/vfc/)
 * St John's College [(Link)](https://stjohns.ubc.ca/)
 * Pacific Spirit Park Society [(Link)](http://pacificspiritparksociety.org/)
