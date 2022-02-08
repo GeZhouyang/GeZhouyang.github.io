@@ -10,5 +10,6 @@ A student-run seminar series centered around fluid mechanics and soft matter phy
 
 1. Mouad Boudina, *Hot shrimps*. Nov 2021.
 2. Zhouyang Ge, *Irreversible suspensions*. Dec 2021.
-3. Jiahao Gong, *How soap bubbles freeze*. Jan 2022.
-4. Damien Huet, *TBD*. Mar 2022 (upcoming).
+3. Jiahao Gong, *Freezing bubbles*. Jan 2022.
+4. Mouad Boudina, *Swelling pasta*. Feb 2022.
+5. Damien Huet, *TBD*. Mar 2022 (upcoming).
