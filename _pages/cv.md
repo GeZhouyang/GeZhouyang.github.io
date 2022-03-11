@@ -25,7 +25,7 @@ University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
   * M.S. in {{site.data.education.MS.major}}
   * Advisors: [Profs. Veronica Eliasson](http://eliasson.mines.edu/) and [Eva Kanso](https://sites.usc.edu/kansolab/)
 
-  * {{site.data.education.BEng.university}} (2009-2013)
+* {{site.data.education.BEng.university}} (2009-2013)
     * B.Eng. in {{site.data.education.BEng.major}}, graduated with honor.
 
 ## Appointments
