@@ -34,6 +34,6 @@ author_profile: true
 
 * Soft Matter Group [(Link)](https://soft.mech.ubc.ca/)
 * Institute of Applied Mathematics [(Link)](https://www.iam.ubc.ca/)
-* Journal club [(Link)](/vfc/)
+* Mechanics club [(Link)](/vfc/)
 * St John's College [(Link)](https://stjohns.ubc.ca/)
 * Pacific Spirit Park Society [(Link)](http://pacificspiritparksociety.org/)
