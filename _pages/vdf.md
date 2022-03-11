@@ -12,4 +12,4 @@ A student-run seminar series centered around fluid mechanics and soft matter phy
 2. Zhouyang Ge, *Irreversible suspensions*. Dec 2021.
 3. Jiahao Gong, *Freezing bubbles*. Jan 2022.
 4. Mouad Boudina, *Swelling pasta*. Feb 2022.
-5. Damien Huet, *TBD*. Mar 2022 (upcoming).
+5. Damien Huet, *Eulerian vesicles*. Mar 2022.
