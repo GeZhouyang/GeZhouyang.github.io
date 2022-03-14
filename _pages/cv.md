@@ -28,7 +28,7 @@ University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
 * {{site.data.education.BEng.university}} (2009-2013)
     * B.Eng. in {{site.data.education.BEng.major}}, graduated with honor.
 
-## Appointments
+## Positions
 
 * Postdoc, University of British Columbia, Vancouver, BC, Canada (2020-)
   * Advisor: [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/)
@@ -37,9 +37,9 @@ University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
 
 ## Awards
 
-* Research grant: International postdoc within natural and engineering sciences, Swedish Research Council (2021) [(Link)](https://www.vr.se/english/swecris.html#/project/2021-06669_VR)
+* Research grant (International postdoc), Swedish Research Council (2021) [(Link)](https://www.vr.se/english/swecris.html#/project/2021-06669_VR)
 * Tetra Pak Award in Computational Fluid Dynamics (CFD), Swedish National Committee
-for Theoretical and Applied Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
+for Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
 * Outstanding graduate honor, Jilin University (2013)
 * National Scholarship (top 3%), Ministry of Education of China (2011)
 * First-class scholarship (top 10%), Jilin University (2010,2012)
