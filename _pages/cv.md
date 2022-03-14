@@ -33,7 +33,7 @@ University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
 * Postdoc, University of British Columbia, Vancouver, BC, Canada (2020-)
   * Advisor: [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/)
 * Researcher, {{site.data.education.PhD.university}} (2020)
-* Intern, Center for Turbulence Research, Stanford University, CA, USA (2018)
+* Visitor, Center for Turbulence Research, Stanford University, CA, USA (2018)
 
 ## Awards
 
