@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Mechanics club meetings
-A student-run seminar series centered around fluid mechanics and soft matter physics.
+A student-run seminar series centered around fluid and solid mechanics.
 
 1. Mouad Boudina, *Hot shrimps*. Nov 2021.
 2. Zhouyang Ge, *Irreversible suspensions*. Dec 2021.

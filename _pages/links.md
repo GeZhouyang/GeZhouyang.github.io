@@ -11,6 +11,7 @@ author_profile: true
 
 * The Fluid Mechanics Webinar Series by JFM [(Link)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/fluid-mechanics-webinar-series?utm_source=SFMC&utm_medium=email&utm_content=abstracts+to+continue+online&utm_campaign=JLU+-+Template+-+Fluid+Mechanics+Webinar+Series&WT.mc_id=JLU+-+Template+-+Fluid+Mechanics+Webinar+Series)
 <br />
+* Physical Review Journal Club [(Link)](https://journals.aps.org/journal-club)
 * Complex Fluids Seminar Series by JNNFM [(Link)](http://pcwww.liv.ac.uk/~robpoole/jnnfm/jnnfm_seminar.htm)
 <br />
 * Flow webinar [(Link)](https://www.cambridge.org/core/journals/flow/flow-webinar)
@@ -34,6 +35,6 @@ author_profile: true
 
 * Soft Matter Group [(Link)](https://soft.mech.ubc.ca/)
 * Institute of Applied Mathematics [(Link)](https://www.iam.ubc.ca/)
-* Mechanics club [(Link)](/vfc/)
+* UBC Mechanics Club [(Link)](/vfc/)
 * St John's College [(Link)](https://stjohns.ubc.ca/)
 * Pacific Spirit Park Society [(Link)](http://pacificspiritparksociety.org/)
