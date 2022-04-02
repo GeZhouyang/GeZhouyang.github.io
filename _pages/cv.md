@@ -14,6 +14,13 @@ Zhouyang "Anthony" Ge (zhoge@mail.ubc.ca) <br />
 University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
 
 
+## Positions
+
+* Postdoc, University of British Columbia, Vancouver, BC, Canada (2020-)
+  * Advisor: [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/)
+* Researcher, {{site.data.education.PhD.university}} (2020)
+
+
 ## Education
 
 * {{site.data.education.PhD.university}} (2015-2020)
@@ -28,18 +35,12 @@ University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
 * {{site.data.education.BEng.university}} (2009-2013)
     * B.Eng. in {{site.data.education.BEng.major}}, graduated with honor.
 
-## Positions
-
-* Postdoc, University of British Columbia, Vancouver, BC, Canada (2020-)
-  * Advisor: [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/)
-* Researcher, {{site.data.education.PhD.university}} (2020)
-* Visitor, Center for Turbulence Research, Stanford University, CA, USA (2018)
 
 ## Awards
 
-* Research grant (International postdoc), Swedish Research Council (2021) [(Link)](https://www.vr.se/english/swecris.html#/project/2021-06669_VR)
-* Tetra Pak Award in Computational Fluid Dynamics (CFD), Swedish National Committee
-for Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
+* International postdoc grant (2021-06669 VR), Swedish Research Council (2021) [(Link)](https://www.vr.se/english/swecris.html#/project/2021-06669_VR)
+* Tetra Pak Award in Computational Fluid Dynamics (CFD), Swedish National Committee for Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
+* Summer program fellowship, Center for Turbulence Research, Stanford University, CA, USA (2018)
 * Outstanding graduate honor, Jilin University (2013)
 * National Scholarship (top 3%), Ministry of Education of China (2011)
 * First-class scholarship (top 10%), Jilin University (2010,2012)
