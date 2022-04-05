@@ -22,8 +22,8 @@ The detailed course materials (lecture notes and demo code) are
 These labs were part of the degree program for Engineering Physics and
 Aerospace/Vehicle Engineering students at KTH (mainly undergrad level).
 Each lab was 2-3 hours and involved 3-5 students.
-My role as the lab instructor was helping the students connect the theory to reality,
-and leading them to do the experiments.
+My role as the lab instructor was helping the students connect the theory to reality
+as well as leading them to do the experiments.
 
 Fun fact: We were interviewed by the Swedish National TV during one experiment
 [(snapshot)](/images/svt_kth_lab.png)!
