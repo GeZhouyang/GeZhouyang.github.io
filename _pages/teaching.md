@@ -25,8 +25,8 @@ Each lab was 2-3 hours and involved 3-5 students.
 My role as the lab instructor was helping the students connect the theory to reality
 as well as leading them to do the experiments.
 
-Fun fact: We were interviewed by the Swedish National TV during one experiment
-[(snapshot)](/images/svt_kth_lab.png)!
+Fun fact: We were interviewed by the Swedish National TV during one
+[experiment](/images/svt_kth_lab.png)!
 
 ## Dynamics of fluids (AME 309, 2014-2015, USC)
 
