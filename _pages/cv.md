@@ -46,13 +46,6 @@ University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
 * First-class scholarship (top 10%), Jilin University (2010,2012)
 
 
-## Teaching
-
-* Boundary layer lab (SG1217 BSc or SG2214 MSc level), lab instructor, KTH (2016-2019)
-* Heat engines lab (SG1216, BSc level), lab instructor, KTH (2016-2019)
-* Dynamics of fluids (AME 309, BSc level), grading assistant, USC (2014-2015)
-
-
 ## Membership
 
 * American Physical Society
