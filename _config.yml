@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://gezhouyang.github.io # the base hostname & protocol for your site e.g. "https://gezhouyang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.jpg"
+teaser                   : "self_bowen.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhouyang Ge"
-  avatar           : "self.jpg"
+  avatar           : "self_bowen.png"
   bio              : "Postdoc in fluid mechanics"
   location         : "Vancouver, Canada"
   employer         : #"University of British Columbia"
