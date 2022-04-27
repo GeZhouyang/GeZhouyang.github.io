@@ -28,7 +28,7 @@ author_profile: true
 
 ## Classics
 
-* Illustrated Experiments in Fluid Mechanics: The NCFMF Book of Film Notes [(Link)](http://web.mit.edu/hml/notes.html)
+* Illustrated Experiments in Fluid Mechanics [(Link)](http://web.mit.edu/hml/notes.html)
 * Feynman's Messenger Lectures [(Link)](https://www.feynmanlectures.caltech.edu/messenger.html)
 
 ## Local communities
