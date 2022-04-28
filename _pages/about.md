@@ -17,8 +17,8 @@ Feel free to contact me for questions or collaborations.
 
 * Current position: Postdoctoral research fellow
 * Host: Prof. Gwynn Elfring, University of British Columbia
-* Areas of interest: Fluid mechanics, Soft matter
-* Research methodology: Computational
+* Areas of interest: Interactions in fluids, Transport phenomena, Rheology
+* Methodology: Computational (Stokesian dynamics, Discrete element method, Level set method)
 
 
 ## Gallery
