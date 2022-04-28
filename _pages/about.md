@@ -9,16 +9,22 @@ redirect_from:
 ---
 
 Welcome to my website!
-Here, you will find brief information about me and my research.
-I am strongly interested in the application of fluid mechanics and scientific computing in active matter.
-Feel free to contact me for questions or collaborations.
+Here you will find brief information about me and my research.
+I am particularly interested in the subject of *soft* or *active matter*
+from the perspective of a fluid mechanician.
+Questions like "How do hydrodynamic interactions affect the emergent dynamics of bacterial suspensions?"
+are not only of fundamental interest,
+but also have practical implications for important industries such as biomedicine and biofuel.
+We study such problems mainly using numerical simulations to complement analytical theories and experiments.
+Feel free to contact me if you have any questions.
+
 
 ## Profile
 
 * Current position: Postdoctoral research fellow
 * Host: Prof. Gwynn Elfring, University of British Columbia
-* Areas of interest: Interactions in fluids, Transport phenomena, Rheology
-* Methodology: Computational (Stokesian dynamics, Discrete element method, Level set method)
+* Research areas: Fluid mechanics, Transport phenomena, Rheology
+* Methodology: Computational (Stokesian dynamics, DNS, Level set method)
 
 
 ## Gallery
