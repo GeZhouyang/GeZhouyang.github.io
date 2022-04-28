@@ -10,12 +10,12 @@ redirect_from:
 
 Welcome to my website!
 Here you will find brief information about me and my research.
-I am particularly interested in the subject of *soft* or *active matter*
+I am particularly interested in the subject of soft or active matter
 from the perspective of a fluid mechanician.
 Questions like "How do hydrodynamic interactions affect the emergent dynamics of bacterial suspensions?"
 are not only of fundamental interest,
 but also have practical implications for important industries such as biomedicine and biofuel.
-We study such problems mainly using numerical simulations to complement analytical theories and experiments.
+I study such problems mainly using numerical simulations to complement analytical theories and experiments.
 Feel free to contact me if you have any questions.
 
 
