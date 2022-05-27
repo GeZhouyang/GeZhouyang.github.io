@@ -15,7 +15,7 @@ which include colloids, polymers, sands, [microswimmers](https://z-p42.www.insta
 As a fluid mechanician, I am particularly interested in 
 how hydrodynamic interactions between individual particles affect their collective motions.
 Such investigations are primarily out of fundamental interest,
-but they may also practical implications for important industries such as biomedicine and biofuel.
+but they may also have practical implications for important industries such as biomedicine and biofuel.
 I study the physics of soft matter mainly using computational fluid dynamics (CFD),
 thus considerable efforts are spent on method developments.
 I hope you find the content on this little website useful.
