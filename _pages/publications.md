@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+### Preprints
+
+* Zhouyang Ge and Gwynn J. Elfring. "Rheology of periodically sheared suspensions undergoing reversible-irreversible transition." arXiv:2206.03762 (2022).
+[(Link)](https://arxiv.org/abs/2206.03762)
+
 ### Selections
 
 * Zhouyang Ge, Raffaella Martone, Luca Brandt, and Mario Minale. "Irreversibility and rate dependence in sheared adhesive suspensions." *Physical Review Fluids* 6, 10 (2021): L101301.
