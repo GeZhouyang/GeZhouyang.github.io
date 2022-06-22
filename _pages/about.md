@@ -25,7 +25,7 @@ Feel free to browse around and contact me if you have any questions.
 ## Profile
 
 * Current position: Postdoctoral research fellow
-* Hosts: Profs. Gwynn Elfring (UBC) and Shervin Bagheri (KTH)
+* Hosts: Profs. [Gwynn Elfring](https://soft.mech.ubc.ca/) (UBC) and [Shervin Bagheri](https://www.bagherigroup.com/) (KTH)
 * Research areas: Fluid mechanics, Transport phenomena, Rheology
 * Methodology: Computational (Stokesian dynamics, DNS, Level set method)
 

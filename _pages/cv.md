@@ -18,7 +18,7 @@ University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
 
 * Postdoc, University of British Columbia, Vancouver, BC, Canada (2020-)
   * Advisor: [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/)
-* Researcher, {{site.data.education.PhD.university}} (2020)
+  * KTH host: [Prof. Shervin Bagheri](https://www.bagherigroup.com/)
 
 
 ## Education
