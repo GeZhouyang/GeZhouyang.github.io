@@ -11,14 +11,13 @@ redirect_from:
 Welcome to my website!
 Here you will find brief information about me and my research.
 Currently, I am very interested in the subject of *active matter*,
-which refer to systems made of self-propelling units.
+i.e. soft materials made of self-propelling units such as cells or 
+[microswimmers](https://z-p42.www.instagram.com/p/CJ9bqegj48I/).
 As a fluid mechanician, I am particularly interested in
-how *hydrodynamic interactions* between individual [microswimmers](https://z-p42.www.instagram.com/p/CJ9bqegj48I/)
-affect their collective motions.
+how *hydrodynamic interactions* between individual cells affect their collective motions.
 Such investigations are primarily curiosity-driven,
 but they may also have practical implications for important industries such as biomedicine and biofuel.
-I study the physics of soft matter mainly using computational fluid dynamics (CFD),
-thus considerable efforts are spent on method developments.
+I study the fluid mechanics of active matter mainly using computer simulations.
 Feel free to browse around and contact me if you have any questions.
 
 
@@ -27,7 +26,7 @@ Feel free to browse around and contact me if you have any questions.
 * Current position: Postdoctoral research fellow
 * Hosts: Profs. [Gwynn Elfring](https://soft.mech.ubc.ca/) (UBC) and [Shervin Bagheri](https://www.bagherigroup.com/) (KTH)
 * Research areas: Fluid mechanics, Transport phenomena, Rheology
-* Methodology: Computational (Stokesian dynamics, DNS, Level set method)
+* Methodology: Computational (Stokesian dynamics, Direct Numerical Simulations)
 
 
 ## Gallery
