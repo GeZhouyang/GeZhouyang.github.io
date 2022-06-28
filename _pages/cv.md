@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Contact information"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Zhouyang "Anthony" Ge (zhoge@mail.ubc.ca) <br />
-{{site.author.affiliation}} <br />
-University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
-
+Department of Engineering Mechanics <br />
+KTH Royal Institute of Technology <br />
+SE-100 44 Stockholm, Sweden <br />
+zhoge_at_mech.kth.se
 
 ## Positions
 
