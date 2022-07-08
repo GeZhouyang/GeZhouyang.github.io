@@ -17,6 +17,7 @@ author_profile: true
 * Flow webinar [(Link)](https://www.cambridge.org/core/journals/flow/flow-webinar)
 <br />
 * klogW talks [(Link)](https://gsnpaps.wixsite.com/home)
+* Talks at College de France [(Link)](https://www.college-de-france.fr/site/en-jean-francois-joanny/_audiovideos.htm)
 
 ## Journals
 
@@ -33,7 +34,6 @@ author_profile: true
 
 ## Local communities
 
-* Soft Matter Group [(Link)](https://soft.mech.ubc.ca/)
 * Institute of Applied Mathematics [(Link)](https://www.iam.ubc.ca/)
 * UBC Mechanics Club [(Link)](/vfc/)
 * St John's College [(Link)](https://stjohns.ubc.ca/)
