@@ -25,7 +25,7 @@ Feel free to browse around and contact me if you have any questions.
 
 * Current position: Postdoctoral research fellow
 * Hosts: Profs. [Gwynn Elfring](https://soft.mech.ubc.ca/) (UBC) and [Shervin Bagheri](https://www.bagherigroup.com/) (KTH)
-* Research areas: Fluid mechanics, Transport phenomena, Rheology
+* Research subjects: Particle suspensions, Microswimmers, Multiphase flow
 * Methodology: Computational (Stokesian dynamics, Direct Numerical Simulations)
 
 
