@@ -11,12 +11,12 @@ redirect_from:
 Welcome to my website!
 Here you will find brief information about me and my research.
 Currently, I am very interested in the subject of *active matter*,
-i.e. soft materials made of self-propelling units such as cells or microswimmers.
+i.e. materials made of self-propelling units such as cells or microswimmers.
 As a fluid mechanician, I am particularly interested in
-how *hydrodynamic interactions* between individual cells affect their collective motions.
+how *hydrodynamic interactions* between individual microswimmers affect their collective motions.
 Such investigations are primarily curiosity-driven,
 but they also have practical implications for vital industries such as biomedicine and biofuel.
-I study the hydrodynamic effects in active matter mainly using computer simulations.
+I study the hydrodynamic effects in active matter mainly using computational fluid dynamics.
 Feel free to browse around and contact me if you have any questions.
 
 
