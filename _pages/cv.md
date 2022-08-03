@@ -40,7 +40,6 @@ zhoge_at_mech.kth.se
 
 * International postdoc grant (2021-06669 VR), Swedish Research Council (2021) [(Link)](https://www.vr.se/english/swecris.html#/project/2021-06669_VR)
 * Tetra Pak Award in Computational Fluid Dynamics, Swedish National Committee for Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
-* Summer program at Center for Turbulence Research, Stanford University, CA, USA (2018) [(Link)](https://ctr.stanford.edu/proceedings-2018-summer-program)
 * Outstanding graduate honor, Jilin University (2013)
 * National Scholarship, Ministry of Education of China (2011)
 
