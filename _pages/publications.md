@@ -22,8 +22,11 @@ author_profile: true
 
 ### Selections
 
-* Zhouyang Ge, Raffaella Martone, Luca Brandt, and Mario Minale. "Irreversibility and rate dependence in sheared adhesive suspensions." *Physical Review Fluids* 6, 10 (2021): L101301.
+* Zhouyang Ge, Raffaella Martone, Luca Brandt, and Mario Minale. "Irreversibility and rate dependence in sheared adhesive suspensions." *Physical Review Fluids* 6, 10 (2021): L101301 (Letter).
 [(Link)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.L101301)
+
+* Zhouyang Ge, Hanna Holmgren, Martin Kronbichler, Luca Brandt, and Gunilla Kreiss. "Effective slip over partially filled microcavities and its possible failure." *Physical Review Fluids* 3, no. 5 (2018): 054201.
+[(Link)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.3.054201)
 
 * Zhouyang Ge, Outi Tammisola, and Luca Brandt. "Flow-assisted droplet assembly in a 3D microfluidic channel." *Soft Matter* 15, no. 16 (2019): 3451-3460.
 [(Link)](https://pubs.rsc.org/en/content/articlehtml/2019/sm/c8sm02479k)

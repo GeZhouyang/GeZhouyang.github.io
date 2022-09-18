@@ -20,6 +20,7 @@ zhoge_at_mech.kth.se
   * Advisor: [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/)
   * KTH host: [Prof. Shervin Bagheri](https://www.bagherigroup.com/)
 
+* Research engineer, {{site.data.education.PhD.university}} (2020)
 
 ## Education
 
@@ -41,6 +42,7 @@ zhoge_at_mech.kth.se
 * International postdoc grant (2021-06669 VR), Swedish Research Council (2021) [(Link)](https://www.vr.se/english/swecris.html#/project/2021-06669_VR)
 * Tetra Pak Award in Computational Fluid Dynamics, Swedish National Committee for Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
 * Outstanding graduate honor, Jilin University (2013)
+* 1st class Scholarship, Jilin University (2010,2012,2013)
 * National Scholarship, Ministry of Education of China (2011)
 
 

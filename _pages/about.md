@@ -14,10 +14,11 @@ My current interest is *active matter*,
 i.e. physical systems made of active units such as cells or microswimmers.
 As a fluid mechanician, I am particularly interested in
 how *hydrodynamic interactions* between individual microswimmers affect their collective motions.
-Such investigations are primarily curiosity-driven,
-but they also have practical implications for vital industries such as biomedicine and biofuel.
-I study the hydrodynamic effects in active matter mainly using computational fluid dynamics.
-Feel free to browse around and contact me if you have any questions.
+Such investigations are mostly driven by curiosity,
+but they also have practical implications for vital industries such as biomedicine and biofuel
+(e.g. directed drug delivery, CO2 sequestration and fuel production, etc).
+I study the hydrodynamic effects in active matter using computational fluid dynamics (CFD).
+Feel free to download the source codes (see GitHub) and contact me if you have more questions.
 
 
 ## Profile

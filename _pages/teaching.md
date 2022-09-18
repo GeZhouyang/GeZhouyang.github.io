@@ -21,9 +21,9 @@ The detailed course materials (lecture notes and demo code) are
 
 These labs were part of the degree program for Engineering Physics and
 Aerospace/Vehicle Engineering students at KTH (mainly undergrad level).
-Each lab was 2-3 hours and involved 3-5 students.
-My role as the lab instructor was helping the students connect the theory to reality
-as well as leading them to do the experiments.
+Each lab took 2-3 hours and involved 3-5 students.
+My role as the lab instructor was to help the students connect the theory to reality,
+as well as to make sure they were safe during the experiments!
 
 Fun fact: We were interviewed by the Swedish National TV during one
 [experiment](/images/svt_kth_lab.png)!
@@ -31,5 +31,6 @@ Fun fact: We were interviewed by the Swedish National TV during one
 ## Dynamics of fluids (AME 309, 2014-2015, USC)
 
 This was an undergrad course on fluid dynamics.
-I was the grading assistant for Professor [Veronica Eliasson](http://eliasson.mines.edu/)
+I was grading the homework assignments of around 50 students
+for Professor [Veronica Eliasson](http://eliasson.mines.edu/)
 and Dr. David C. Wilcox, respectively.
