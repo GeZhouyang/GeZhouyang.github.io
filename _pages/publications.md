@@ -16,14 +16,14 @@ author_profile: true
 {% endfor %} -->
 
 Below are my papers (including preprints) grouped by the subject.
-The full list can be found [here](https://scholar.google.com/citations?user=2UWxT3cAAAAJ&hl=en).
+The full list can also be found [here](https://scholar.google.com/citations?user=2UWxT3cAAAAJ&hl=en).
 
 ### Particle suspensions
 
 * <u>Ge, Zhouyang</u>, and Gwynn J. Elfring. "Rheology of periodically sheared suspensions undergoing reversible-irreversible transition." arXiv:2206.03762 (2022).
 [(Link)](https://arxiv.org/abs/2206.03762)
 
-* <u>Ge, Zhouyang</u>, Raffaella Martone, Luca Brandt, and Mario Minale. "Irreversibility and rate dependence in sheared adhesive suspensions." *Physical Review Fluids* 6, 10 (2021): L101301 (Letter).
+* <u>Ge, Zhouyang</u>, Raffaella Martone, Luca Brandt, and Mario Minale. "Irreversibility and rate dependence in sheared adhesive suspensions." *Physical Review Fluids* (Letter) 6, 10 (2021): L101301.
 [(Link)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.L101301)
 
 ### Multiphase flow
