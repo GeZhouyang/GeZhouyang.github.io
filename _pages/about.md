@@ -17,7 +17,7 @@ how *hydrodynamic interactions* between individual microswimmers affect their co
 Such investigations are mostly driven by curiosity,
 but they also have practical implications for vital industries such as biomedicine and biofuel
 (e.g. directed drug delivery, CO2 sequestration and fuel production, etc).
-I study the hydrodynamic effects in active matter using computational fluid dynamics (CFD).
+I study the hydrodynamic effects in active matter using *computational fluid dynamics* (CFD).
 Feel free to download the source codes (see GitHub) and contact me if you have any questions.
 
 
