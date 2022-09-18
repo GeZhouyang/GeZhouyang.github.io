@@ -15,21 +15,27 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### Preprints
+### Suspensions
 
 * Zhouyang Ge and Gwynn J. Elfring. "Rheology of periodically sheared suspensions undergoing reversible-irreversible transition." arXiv:2206.03762 (2022).
 [(Link)](https://arxiv.org/abs/2206.03762)
 
-### Selections
-
 * Zhouyang Ge, Raffaella Martone, Luca Brandt, and Mario Minale. "Irreversibility and rate dependence in sheared adhesive suspensions." *Physical Review Fluids* 6, 10 (2021): L101301 (Letter).
 [(Link)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.L101301)
+
+### Multiphase flows
 
 * Zhouyang Ge, Hanna Holmgren, Martin Kronbichler, Luca Brandt, and Gunilla Kreiss. "Effective slip over partially filled microcavities and its possible failure." *Physical Review Fluids* 3, no. 5 (2018): 054201.
 [(Link)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.3.054201)
 
+### Droplet interactions (fluid-particle interactions)
+
 * Zhouyang Ge, Outi Tammisola, and Luca Brandt. "Flow-assisted droplet assembly in a 3D microfluidic channel." *Soft Matter* 15, no. 16 (2019): 3451-3460.
 [(Link)](https://pubs.rsc.org/en/content/articlehtml/2019/sm/c8sm02479k)
+
+### Numerical methods
+
+* Ningegowda, B.M., <u>Zhouyang Ge</u>, Giandomenico Lupo, Luca Brandt, and Christophe Duwig. "A mass-preserving interface-correction level set/ghost fluid method for modeling of three-dimensional boiling flows." *International Journal of Heat and Mass Transfer* 162 (2020): 120382.
 
 * Zhouyang Ge, Jean-Christophe Loiseau, Outi Tammisola, and Luca Brandt. "An efficient mass-preserving interface-correction level set/ghost fluid method for droplet suspensions under depletion forces." *Journal of Computational Physics* 353 (2018): 435-459. [(Link)](https://www.sciencedirect.com/science/article/pii/S0021999117308136?casa_token=X6zulI0fNJkAAAAA:D6Oz65POsroKUl5LtMCakbYo7s5oJLR_M0bYQZ4U8ADagY5dh2XWdV6ycYL0l7X6FzLVSQaQUwr1)
 
