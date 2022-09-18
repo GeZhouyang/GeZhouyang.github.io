@@ -16,9 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 Below are my papers (including preprints) grouped by the subject.
-The full list can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=2UWxT3cAAAAJ&hl=en).
+The full list can be found [here](https://scholar.google.com/citations?user=2UWxT3cAAAAJ&hl=en).
 
-### Suspensions
+### Particle suspensions
 
 * <u>Ge, Zhouyang</u>, and Gwynn J. Elfring. "Rheology of periodically sheared suspensions undergoing reversible-irreversible transition." arXiv:2206.03762 (2022).
 [(Link)](https://arxiv.org/abs/2206.03762)
@@ -33,7 +33,7 @@ The full list can be found on my [Google Scholar profile](https://scholar.google
 * <u>Ge, Zhouyang</u>, Hanna Holmgren, Martin Kronbichler, Luca Brandt, and Gunilla Kreiss. "Effective slip over partially filled microcavities and its possible failure." *Physical Review Fluids* 3, no. 5 (2018): 054201.
 [(Link)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.3.054201)
 
-### Fluid-particle interaction
+### Droplet interactions
 
 * Fouxon, Itzhak, Boris Rubinstein, <u>Zhouyang Ge</u>, Luca Brandt, and Alexander Leshansky. "Theory of hydrodynamic interaction of two spheres in wall-bounded shear flow." *Physical Review Fluids* 5, no. 5 (2020): 054101.
 
