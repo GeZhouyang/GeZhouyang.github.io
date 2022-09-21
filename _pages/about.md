@@ -13,9 +13,10 @@ Here you will find brief information about me and my research.
 My current interest is *active matter*,
 i.e. physical systems made of active units such as cells or microswimmers.
 As a fluid mechanician, I am particularly interested in
-how *hydrodynamic interactions* between individual microswimmers affect their collective motions.
-Such investigations are mostly driven by curiosity,
-but they also have practical implications for vital industries such as biomedicine and biofuel
+how *hydrodynamic interactions* between individual microswimmers affect their collective motions
+and the bulk fluid properties.
+Such investigations are not only driven by curiosity,
+but also by potential applications in vital industries such as biomedicine and biofuel
 (e.g. directed drug delivery, CO2 sequestration and fuel production, etc).
 I study the hydrodynamic effects in active matter using *computational fluid dynamics* (CFD).
 Feel free to download the source codes (see GitHub) and contact me if you have any questions.
@@ -25,7 +26,7 @@ Feel free to download the source codes (see GitHub) and contact me if you have a
 
 * Current position: Postdoctoral research fellow
 * Hosts: Profs. [Gwynn Elfring](https://soft.mech.ubc.ca/) (UBC) and [Shervin Bagheri](https://www.bagherigroup.com/) (KTH)
-* Research areas: Particle suspensions, Hydrodynamic interactions, CFD
+* Research areas: Complex fluids (suspensions), Multiphase flow (drops and bubbles)
 * Methodology: Computational (Stokesian dynamics, Direct Numerical Simulations)
 
 

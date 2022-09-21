@@ -33,7 +33,7 @@ The full list can also be found [here](https://scholar.google.com/citations?user
 * <u>Ge, Zhouyang</u>, Hanna Holmgren, Martin Kronbichler, Luca Brandt, and Gunilla Kreiss. "Effective slip over partially filled microcavities and its possible failure." *Physical Review Fluids* 3, no. 5 (2018): 054201.
 [(Link)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.3.054201)
 
-### Droplet interactions
+### Hydrodynamic interactions
 
 * Fouxon, Itzhak, Boris Rubinstein, <u>Zhouyang Ge</u>, Luca Brandt, and Alexander Leshansky. "Theory of hydrodynamic interaction of two spheres in wall-bounded shear flow." *Physical Review Fluids* 5, no. 5 (2020): 054101.
 
