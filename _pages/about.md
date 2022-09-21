@@ -26,7 +26,7 @@ Feel free to download the source codes (see GitHub) and contact me if you have a
 
 * Current position: Postdoctoral research fellow
 * Hosts: Profs. [Gwynn Elfring](https://soft.mech.ubc.ca/) (UBC) and [Shervin Bagheri](https://www.bagherigroup.com/) (KTH)
-* Research areas: Complex fluids (suspensions), Multiphase flow (drops and bubbles)
+* Research areas: Complex fluids (suspensions), Multiphase flow
 * Methodology: Computational (Stokesian dynamics, Direct Numerical Simulations)
 
 
