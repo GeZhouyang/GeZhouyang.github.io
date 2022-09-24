@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Research talks
+## Talks
 
 * Physical Review Journal Club [(Link)](https://journals.aps.org/journal-club)
 * The Fluid Mechanics Webinar Series by JFM [(Link)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/fluid-mechanics-webinar-series?utm_source=SFMC&utm_medium=email&utm_content=abstracts+to+continue+online&utm_campaign=JLU+-+Template+-+Fluid+Mechanics+Webinar+Series&WT.mc_id=JLU+-+Template+-+Fluid+Mechanics+Webinar+Series)
@@ -19,17 +19,20 @@ author_profile: true
 * klogW talks [(Link)](https://gsnpaps.wixsite.com/home)
 * Talks at College de France [(Link)](https://www.college-de-france.fr/site/en-jean-francois-joanny/_audiovideos.htm)
 
-## Journals
+## Papers
 
-* arXiv [flu-dyn](https://arxiv.org/list/physics.flu-dyn/recent),
+* arXiv
+[flu-dyn](https://arxiv.org/list/physics.flu-dyn/recent),
 [cond-mat](https://arxiv.org/list/cond-mat.soft/recent)
-* [Phys. Rev. Fluids](https://journals.aps.org/prfluids/)
+* Phys. Rev.
+[E](https://journals.aps.org/pre/),
+[Fluids](https://journals.aps.org/prfluids/),
+[Lett.](https://journals.aps.org/prl/)
 * [J. Fluid Mech.](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)
 * [J. Comput. Phys.](https://www.journals.elsevier.com/journal-of-computational-physics)
 
-## Classics
+## Miscellaneous
 
-* Illustrated Experiments in Fluid Mechanics [(Link)](http://web.mit.edu/hml/notes.html)
 * Feynman's Messenger Lectures [(Link)](https://www.feynmanlectures.caltech.edu/messenger.html)
 
 ## Local communities
