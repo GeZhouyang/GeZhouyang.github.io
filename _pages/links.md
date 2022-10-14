@@ -18,6 +18,9 @@ author_profile: true
 <br />
 * klogW talks [(Link)](https://gsnpaps.wixsite.com/home)
 * Talks at College de France [(Link)](https://www.college-de-france.fr/site/en-jean-francois-joanny/_audiovideos.htm)
+* Boulder School 2022: Hydrodynamics Across Scales [(Link)](https://www.youtube.com/playlist?list=PL8mMEmoXNBfaFV2wA4lDD7j_f2l7BTYIV)
+* Feynman's Messenger Lectures [(Link)](https://www.feynmanlectures.caltech.edu/messenger.html)
+
 
 ## Papers
 
@@ -31,11 +34,8 @@ author_profile: true
 * [J. Fluid Mech.](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)
 * [J. Comput. Phys.](https://www.journals.elsevier.com/journal-of-computational-physics)
 
-## Miscellaneous
 
-* Feynman's Messenger Lectures [(Link)](https://www.feynmanlectures.caltech.edu/messenger.html)
-
-## Local communities
+## Communities
 
 * Institute of Applied Mathematics [(Link)](https://www.iam.ubc.ca/)
 * UBC Mechanics Club [(Link)](/vfc/)
