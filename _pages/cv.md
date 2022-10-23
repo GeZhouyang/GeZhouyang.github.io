@@ -27,7 +27,7 @@ zhoge_at_mech.kth.se
 * {{site.data.education.PhD.university}} (2015-2020)
   * Ph.D. in {{site.data.education.PhD.major}}
   * Advisors: [Profs. Luca Brandt](https://www.mech.kth.se/~luca/) and [Outi Tammisola](https://www.mech.kth.se/mech/info_staff.xhtml?ID=219)
-  * Thesis: On droplet interactions and suspension flow [(kappa)](https://kth.diva-portal.org/smash/record.jsf?dswid=9947&pid=diva2%3A1397050&c=3&searchType=SIMPLE&language=en&query=zhouyang+ge&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
+  * Thesis: On droplet interactions and suspension flow 
 
 * {{site.data.education.MS.university}} (2013-2015)
   * M.S. in {{site.data.education.MS.major}}
@@ -39,7 +39,7 @@ zhoge_at_mech.kth.se
 
 ## Awards
 
-* International postdoc grant (2021-06669 VR), Swedish Research Council (2021) [(Link)](https://www.vr.se/english/swecris.html#/project/2021-06669_VR)
+* International postdoc grant (2021-06669VR), Swedish Research Council (2021) [(Link)](https://www.vr.se/english/swecris.html#/project/2021-06669_VR)
 * Tetra Pak Award in Computational Fluid Dynamics, Swedish National Committee for Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
 * Outstanding graduate honor, Jilin University (2013)
 * 1st class Scholarship, Jilin University (2010,2012,2013)
