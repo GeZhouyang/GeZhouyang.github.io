@@ -27,7 +27,6 @@ zhoge_at_mech.kth.se
 * {{site.data.education.PhD.university}} (2015-2020)
   * Ph.D. in {{site.data.education.PhD.major}}
   * Advisors: [Profs. Luca Brandt](https://www.mech.kth.se/~luca/) and [Outi Tammisola](https://www.mech.kth.se/mech/info_staff.xhtml?ID=219)
-  * Thesis: On droplet interactions and suspension flow 
 
 * {{site.data.education.MS.university}} (2013-2015)
   * M.S. in {{site.data.education.MS.major}}
