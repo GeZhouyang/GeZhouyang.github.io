@@ -10,14 +10,10 @@ author_profile: true
 ## Talks
 
 * Physical Review Journal Club [(Link)](https://journals.aps.org/journal-club)
-* Fluid Mechanics Webinar Series (JFM) [(Link)](https://cassyni.com/s/fmws/seminars)
-<br />
-* Complex Fluids Seminar Series (JNNFM) [(Link)](http://pcwww.liv.ac.uk/~robpoole/jnnfm/jnnfm_seminar.htm)
-<br />
-* klogW talks [(Link)](https://gsnpaps.wixsite.com/home)
-* Talks at College de France [(Link)](https://www.college-de-france.fr/site/en-jean-francois-joanny/_audiovideos.htm)
+* JFM Webinar Series [(Link)](https://cassyni.com/s/fmws/seminars)
+* JNNFM Seminar Series (2020-2022) [(Link)](http://pcwww.liv.ac.uk/~robpoole/jnnfm/jnnfm_seminar.htm)
+* klogW talks (2020-2022) [(Link)](https://gsnpaps.wixsite.com/home)
 * Boulder School 2022: Hydrodynamics Across Scales [(Link)](https://www.youtube.com/playlist?list=PL8mMEmoXNBfaFV2wA4lDD7j_f2l7BTYIV)
-* Feynman's Messenger Lectures [(Link)](https://www.feynmanlectures.caltech.edu/messenger.html)
 
 
 ## Papers
@@ -35,8 +31,13 @@ author_profile: true
 
 ## Communities
 
-* Linné FLOW Centre [(Link)](https://www.flow.kth.se/about-flow)
-* Institute of Applied Mathematics [(Link)](https://www.iam.ubc.ca/)
+* Linné FLOW Centre (KTH) [(Link)](https://www.flow.kth.se/about-flow)
+* Nordic Institute for Theoretical Physics [(Link)](https://www.nordita.org/)
+* Institute of Applied Mathematics (UBC) [(Link)](https://www.iam.ubc.ca/)
 * UBC Mechanics Club [(Link)](/vfc/)
-* St John's College [(Link)](https://stjohns.ubc.ca/)
-* Pacific Spirit Park Society [(Link)](http://pacificspiritparksociety.org/)
+* St John's College (UBC) [(Link)](https://stjohns.ubc.ca/)
+* Pacific Spirit Park Society (Vancouver) [(Link)](http://pacificspiritparksociety.org/)
+
+## Miscellaneous
+
+* Other interesting links [(Link)](/misc/)
