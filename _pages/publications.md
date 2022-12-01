@@ -20,8 +20,8 @@ The full list can also be found [here](https://scholar.google.com/citations?user
 
 ### Particle suspensions
 
-* <u>Ge, Zhouyang</u>, and Gwynn J. Elfring. "Rheology of periodically sheared suspensions undergoing reversible-irreversible transition." arXiv:2206.03762 (2022).
-[(Link)](https://arxiv.org/abs/2206.03762)
+* <u>Ge, Zhouyang</u> and Gwynn J. Elfring. "Rheology of periodically sheared suspensions undergoing reversible-irreversible transition." *Physical Review E* 106, 054616 (2022).
+[(Link)](https://link.aps.org/doi/10.1103/PhysRevE.106.054616)
 
 * <u>Ge, Zhouyang</u>, Raffaella Martone, Luca Brandt, and Mario Minale. "Irreversibility and rate dependence in sheared adhesive suspensions." *Physical Review Fluids* (Letter) 6, 10 (2021): L101301.
 [(Link)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.L101301)
