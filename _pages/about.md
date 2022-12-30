@@ -17,11 +17,11 @@ affect their collective motions and the bulk fluid properties.
 I explore these questions numerically by doing computer simulations.
 Most of the programs I use are open-source and can be downloaded from the Github page on the left.
 
-Active fluids are not only interesting fundamentally,
-but also have potential applications in many emerging industries that are vital to our future societies.
+Active fluids are not only of fundamental interest,
+but also have potential applications in many emerging industries vital to our future societies.
 Examples include directed drug delivery, 
 CO2 sequestration, biofuel production,
-plant-based meat cultivation, etc.
+plant-based meat cultivation, and perhaps more.
 
 
 ## Profile
