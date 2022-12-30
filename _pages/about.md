@@ -15,10 +15,10 @@ My current research interests are at the intersection of fluid mechanics and act
 Specifically, I am interested in how hydrodynamic interactions, say, between algae in water,
 affect their collective motions and the bulk fluid properties.
 I explore these questions numerically by doing computer simulations.
-Most of the programs I use are open-source and can be downloaded from the GitHub page on the left.
+Most of the programs I use are open-source and can be downloaded from the Github page on the left.
 
-Active fluids are not only interesting to study,
-but also have many potential applications in the emerging industries that are vital to our future.
+Active fluids are not only interesting fundamentally,
+but also have potential applications in many emerging industries that are vital to our future societies.
 Examples include directed drug delivery, 
 CO2 sequestration, biofuel production,
 plant-based meat cultivation, etc.
