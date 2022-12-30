@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Welcome!"
 excerpt: "Researcher in fluid mechanics"
 author_profile: true
 redirect_from:
@@ -8,25 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website!
-Here you will find brief information about me and my research.
-My current interest is *active matter*,
-i.e. physical systems made of active units such as cells or microswimmers.
-As a fluid mechanician, I am particularly interested in
-how *hydrodynamic interactions* between individual microswimmers affect their collective motions
-and the bulk fluid properties.
-Such investigations are not only driven by curiosity,
-but also by potential applications in vital industries such as biomedicine and biofuel
-(e.g. directed drug delivery, CO2 sequestration and fuel production, etc).
-I study the hydrodynamic effects in active matter using *computational fluid dynamics* (CFD).
-Feel free to download the source codes (see GitHub) and contact me if you have any questions.
+I am a postdoctoral researcher in fluid mechanics at KTH Royal Institute of Technology in Stockholm, Sweden.
+I am also affiliated with the Soft Matter Group in the University of British Columbia in Vancouver, Canada.
+
+My current research interests are at the intersection of fluid mechanics and active matter.
+Specifically, I am interested in how hydrodynamic interactions, say, between algae in a fluid,
+affect their collective motions and the bulk fluid properties.
+I explore these questions numerically by doing computer simulations.
+Most of the programs I use are open-source and can be downloaded from the GitHub page on the left.
+
+Active fluids are not only interesting to study,
+but also have many potential applications in vital and emerging industries of our societies.
+Examples include directed drug delivery, 
+CO2 sequestration, biofuel production,
+plant-based meat cultivation, etc.
 
 
 ## Profile
 
 * Current position: Postdoctoral research fellow
 * Hosts: Profs. [Gwynn Elfring](https://soft.mech.ubc.ca/) (UBC) and [Shervin Bagheri](https://www.bagherigroup.com/) (KTH)
-* Research areas: Complex fluids (suspensions), Multiphase flow
+* Research areas: Complex fluids, Active fluids
 * Methodology: Computational (Stokesian dynamics, Direct Numerical Simulations)
 
 
@@ -34,7 +36,7 @@ Feel free to download the source codes (see GitHub) and contact me if you have a
 
 ![squirmers](images/phi40-lattice-rand-ori.png "Squirmers")
 Chaotic mixing due to hydrodynamic interactions.
-Shown is an active suspension (positive shakers) at 40% volume fraction.
+Shown is an active suspension (pulling shakers) at 40% volume fraction.
 
 ![droplets](images/cover_pic.png "Droplets")
 Droplets in homogeneous shear turbulence.
