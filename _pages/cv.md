@@ -17,7 +17,7 @@ zhoge_at_mech.kth.se
 ## Positions
 
 * {{site.data.education.PhD.university}} (2022-)
-  * Postdoc (2022-). Advisor: [Prof. Shervin Bagheri](https://www.bagherigroup.com/)
+  * Postdoc. Advisor: [Prof. Shervin Bagheri](https://www.bagherigroup.com/)
 
 * University of British Columbia, Vancouver, BC, Canada (2020-)
   * Honorary Research Associate (2022-)  
