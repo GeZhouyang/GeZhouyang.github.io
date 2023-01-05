@@ -16,11 +16,13 @@ zhoge_at_mech.kth.se
 
 ## Positions
 
-* Postdoc, University of British Columbia, Vancouver, BC, Canada (2020-)
-  * Advisor: [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/)
-  * KTH host: [Prof. Shervin Bagheri](https://www.bagherigroup.com/)
+* {{site.data.education.PhD.university}} (2022-)
+  * Postdoc (2022-). Advisor: [Prof. Shervin Bagheri](https://www.bagherigroup.com/)
 
-* Research engineer, {{site.data.education.PhD.university}} (2020)
+* University of British Columbia, Vancouver, BC, Canada (2020-)
+  * Honorary Research Associate (2022-)  
+  * Postdoc (2020-2022). Advisor: [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/)
+
 
 ## Education
 
@@ -38,12 +40,15 @@ zhoge_at_mech.kth.se
 
 ## Awards
 
-* International postdoc grant (2021-06669VR), Swedish Research Council (2021) [(Link)](https://www.vr.se/english/swecris.html#/project/2021-06669_VR)
 * Tetra Pak Award in Computational Fluid Dynamics, Swedish National Committee for Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
 * Outstanding graduate honor, Jilin University (2013)
 * 1st class Scholarship, Jilin University (2010,2012,2013)
 * National Scholarship, Ministry of Education of China (2011)
 
+
+## Grants
+
+* International postdoc grant (2021-06669VR), Swedish Research Council (2021) [(Link)](https://www.vr.se/english/swecris.html#/project/2021-06669_VR)
 
 ## Membership
 

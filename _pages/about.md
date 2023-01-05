@@ -18,8 +18,8 @@ I explore these questions numerically by doing computer simulations.
 Most of the programs I use are open-source and can be downloaded from the Github page on the left.
 
 Active fluids are not only of fundamental interest,
-but also have potential applications in many emerging industries vital to our future societies.
-Examples include directed drug delivery, 
+but also have potential applications in many emerging industries or technology.
+Examples include directed drug delivery,
 CO2 sequestration, biofuel production,
 plant-based meat cultivation, and perhaps more.
 
@@ -40,5 +40,4 @@ Shown is an active suspension (pulling shakers) at 40% volume fraction.
 
 ![droplets](images/cover_pic.png "Droplets")
 Droplets in homogeneous shear turbulence.
-This image was produced from a high-resolution simulation published
-[here](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/droplets-in-homogeneous-shear-turbulence/49BE8A80FEFCFB934104005EB74A7E69).
+Volume fraction 5%, Weber number (based on the Taylor microscale) 4.
