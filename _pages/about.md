@@ -12,10 +12,10 @@ I am a postdoctoral researcher in fluid mechanics at KTH Royal Institute of Tech
 I am also affiliated with the Soft Matter Group at the University of British Columbia in Vancouver, Canada.
 
 My current research interests are at the intersection of fluid mechanics and active matter.
-Specifically, I am interested in how hydrodynamic interactions, say, between algae in water,
+Specifically, I am interested in how hydrodynamic interactions between microswimmers
 affect their collective motions and the bulk fluid properties.
 I explore these questions numerically by doing computer simulations.
-Most of the programs I use are open-source and can be downloaded from the Github page on the left.
+Most of the programs I use are open-source and can be downloaded from my Github page.
 
 Active fluids are not only of fundamental interest,
 but also have potential applications in many emerging industries or technology.
