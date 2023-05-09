@@ -18,7 +18,7 @@ zhoge_at_mech.kth.se
 
 * University of British Columbia, Vancouver, BC, Canada (2020-)
   * Postdoc. Advisor: [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/)
-  * At KTH for a one-year visit (2022-2023). Host: [Prof. Shervin Bagheri](https://www.bagherigroup.com/)
+  * At KTH for a year (2022-2023). Host: [Prof. Shervin Bagheri](https://www.bagherigroup.com/)
 
 
 ## Education

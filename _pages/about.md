@@ -14,7 +14,7 @@ I am also affiliated with the Soft Matter Group at the University of British Col
 My current research interests are at the intersection of fluid mechanics and active matter.
 Specifically, I am interested in how hydrodynamic interactions between microswimmers
 affect their collective motions and the bulk fluid properties.
-I explore these questions numerically by doing CPU/GPU simulations.
+I explore these questions numerically via CPU/GPU simulations.
 Most of the programs I use are open-source and can be downloaded from my Github page.
 
 Active fluids are not only of fundamental interest,
