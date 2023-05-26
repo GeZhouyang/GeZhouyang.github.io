@@ -29,7 +29,6 @@ zhoge_at_mech.kth.se
 
 * {{site.data.education.MS.university}} (2013-2015)
   * M.S. in {{site.data.education.MS.major}}
-  * Advisors: [Profs. Veronica Eliasson](http://eliasson.mines.edu/) and [Eva Kanso](https://sites.usc.edu/kansolab/)
 
 * {{site.data.education.BEng.university}} (2009-2013)
     * B.Eng. in {{site.data.education.BEng.major}}, graduated with honor.
