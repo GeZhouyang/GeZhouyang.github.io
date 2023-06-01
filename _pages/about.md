@@ -11,14 +11,14 @@ redirect_from:
 I am a postdoc in fluid mechanics at the University of British Columbia in Vancouver, Canada,
 and KTH Royal Institute of Technology in Stockholm, Sweden.
 
-My current research interests are at the intersection of fluid mechanics and soft/active matter.
-Specifically, I am interested in particle suspensions (see images below),
-in which I study how individual particles interact hydrodynamically and
+My current research interests are at the intersection of fluid mechanics and active matter.
+Specifically, I study particle suspensions (see images below) to try to understand
+how individual particles interact hydrodynamically and
 how that affects their collective motion and the bulk fluid properties.
 I explore these questions numerically via CPU/GPU simulations.
 Most of the programs I use are open-source and can be downloaded from my Github page.
 
-Soft/Active matter are not only of fundamental physical interest,
+Active matter are not only of fundamental physical interest,
 but also have potential applications in emerging industries or technology,
 e.g. directed drug delivery, CO2 sequestration, biofuel and plant-based meat production, etc.
 I hope to contribute in these directions using tools and understanding from fluid mechanics.
