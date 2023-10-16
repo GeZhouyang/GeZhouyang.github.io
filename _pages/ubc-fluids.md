@@ -15,13 +15,13 @@ Weekly fluids seminar by researchers or guests at UBC.
 Pascale Garaud (UCSC)
 
 **Title:**
-TBD
+
 
 **Abstract:** 
-TBD
+
 
 **Bio:**
-TBD
+
 -->
 
 ++++ Oct 19, 2023 ++++
