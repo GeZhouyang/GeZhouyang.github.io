@@ -8,9 +8,7 @@ author_profile: true
 ## UBC Fluids Seminar
 Weekly fluids seminar by researchers or guests at UBC.
 
-### Fall 2023
-
-
+<!---
 **Oct 26, 2023: Pascale Garaud (UCSC)**
 
 **Title:**
@@ -33,9 +31,9 @@ TBD
 
 **Bio:**
 TBD
+-->
 
-
-**Oct 12, 2023: Vaseem Shaik (UBC)**
+**Oct 12, 2023:** Vaseem Shaik (UBC)
 
 **Title:**
 Active particles in inhomogeneous environments
@@ -49,8 +47,9 @@ Here I focus on the μm - mm sized particles swimming in fluid viscosity or dens
 **Bio:**
 Vaseem obtained his PhD from Purdue University in 2020. In his research, Vaseem uses asymptotic techniques to understand the motion of particles or swimming organisms in complex flows. His current interests are fluid dynamics and non-equilibrium statistical mechanics of active matter.
 
+++++
 
-**Oct 5, 2023: Lisa Fauci (Tulane)**
+**Oct 5, 2023:** Lisa Fauci (Tulane)
 
 **Title:**
 Neuromechanical model of injured lampreys locomotion
@@ -61,8 +60,9 @@ In some vertebrates such as lampreys, swimming function can be regained after sp
 **Bio:**
 Lisa Fauci received her PhD from the Courant Institute of Mathematical Sciences at New York University, and directly after that joined the Department of Mathematics at Tulane University in New Orleans. Her research focuses on biological fluid dynamics, with an emphasis on using modeling and simulation to study the basic biophysics of organismal locomotion and reproductive mechanics. Lisa served as president of the Society for Industrial and Applied Mathematics (SIAM) in 2019-2020.  In 2023, she was elected to the US National Academy of Sciences. 
 
+++++
 
-**Sep 28, 2023: Xiaoyu Mao (UBC)**
+**Sep 28, 2023:** Xiaoyu Mao (UBC)
 
 **Title:**
 A Unified Eulerian Variational Framework for Multiphase Fluid-structure Interaction
@@ -73,8 +73,9 @@ Multiphase fluid-structure interaction is a bi-directional coupling between mult
 **Bio:**
 Xiaoyu is a post-doctoral fellow in the Computational Multiphysics Lab under the supervision of Prof. Rajeev Jaiman at UBC. After defending his Ph.D. thesis in August, he is currently working on ANSYS funded project focusing on the numerical stability of fluid-structure interaction for biomechanics and marine engineering applications. He has developed the interface and geometry-preserving methods for a novel and general-purpose unified continuum mechanics framework, which can simulate multiphase fluid-structure interactions with contact dynamics and topology changes at low and high Reynolds numbers. 
   
+++++
 
-**Sep 21, 2023: Zhouyang Ge (UBC)**
+**Sep 21, 2023:** Zhouyang Ge (UBC)
 
 **Title:**
 Rheology of periodically sheared suspensions undergoing reversible-irreversible transition
