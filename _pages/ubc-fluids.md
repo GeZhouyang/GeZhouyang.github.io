@@ -19,19 +19,23 @@ TBD
 
 **Bio:**
 TBD
+-->
 
+++++
 
 **Oct 19, 2023: Jean-Luc Thiffeault (UWisc)**
 
 **Title:**
-TBD
+Stirring by microswimmers and their interaction with boundaries
 
 **Abstract:** 
-TBD
+Microswimmers and active particles have become a key part of modern soft matter modeling. I will discuss two applications. The first involves how microswimmers affect their environment through their motion -- that is, how much fluid stirring they provide. Recent experiments have measured the displacement of small microspheres and characterized their statistics with a high degree of precision, allowing us to test the validity of various theories. We will see how to explain the non-Gaussian statistics observed in experiments, and to
+predict key quantities such as the effective diffusivity. In the second part, we will examine the dispersion of the microswimmers themselves. How does their swimming, and their interactions with boundaries, dictate how they migrate down narrow channels, such as a pipette? The exact shape of the swimmer plays an important role, since it affects how swimmers align with boundaries.
 
 **Bio:**
-TBD
--->
+Jean-Luc Thiffeault is a professor of Mathematics at University of Wisconsin - Madison. He received his PhD in Physics from the University of Texas - Austin. His research interests include transport and mixing in fluid dynamics, topology and dynamical systems, and microswimmers as active matter.
+
+++++
 
 **Oct 12, 2023:** Vaseem Shaik (UBC)
 
