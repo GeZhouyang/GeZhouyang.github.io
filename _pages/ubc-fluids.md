@@ -8,21 +8,20 @@ author_profile: true
 ## UBC Fluids Seminar
 Weekly fluids seminar by researchers or guests at UBC.
 
-<!---
 ++++ Oct 26, 2023 ++++
 
 **Speaker:** 
 Pascale Garaud (UCSC)
 
 **Title:**
-
+Multiscale asymptotic analysis of stratified turbulence at medium and low Prandtl number
 
 **Abstract:** 
-
+In this talk, I will present recent theoretical and numerical progress in modeling the dynamics of stratified turbulence in regimes appropriate to the Earth’s atmosphere and oceans, of the interiors of giant planets, and of stellar interiors. Multiscale asymptotic analysis reveals the existence of several different dynamical regimes, each with its specific set of scaling laws relating the turbulence properties to the stratification. Direct Numerical Simulations are then used to test and validate these model predictions.
 
 **Bio:**
-
--->
+Prof. Garaud is the Chair of the Department of Applied Mathematics at UC Santa Cruz, and a fellow of the American Physical Society. She specializes
+in the study of transport by turbulence in geophysical and astrophysical fluids.
 
 ++++ Oct 19, 2023 ++++
 
