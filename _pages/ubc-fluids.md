@@ -8,6 +8,20 @@ author_profile: true
 ## UBC Fluids Seminar
 Weekly fluids seminar by researchers or guests at UBC.
 
+++++ Nov 9, 2023 ++++
+
+**Speaker:** 
+Aashish Goyal (UBC)
+
+**Title:**
+An accurate and scalable Direction-Splitting solver for flows laden with non-spherical rigid bodies
+
+**Abstract:** 
+Flows laden with rigid bodies are ubiquitous in both industrial and natural environments. An accurate representation of particle-laden flows in a computational model requires O(10^9) spatial variables. I present an accurate and scalable solver for non-spherical rigid particle-laden flows implemented on PacIFiC, an in-house C/C++ parallel library to solve Partial Differential Equations. The solver uses a direction splitting algorithm to transform all three-dimensional Poisson problems into a sequence of three one-dimensional sub-problems, thus improving its scalability up to multiple thousands of cores. I employ this algorithm to solve mass and momentum conservation equations in flow laden with non-spherical fixed or moving rigid bodies. The presence of rigid bodies on the Cartesian grid is accounted for by modifying the diffusive, the advection, and the divergence terms to correctly capture the sharp changes in flow that occur in the vicinity of a fluid-solid interface. I demonstrate the accuracy, speed, and scalability of the solver and also show the expanded functionality of the solver to incorporate intricate geometries that are specified in STL files. Finally, I demonstrate two complex flow problems: (i) the influence of a neighbor on the forces experienced by a sphere placed near a wall and (ii) the force and torque distribution in a suspension of non-spherical particles.
+
+**Bio:**
+Aashish is a final-year Ph.D. candidate at the University of British Columbia. He did his Bachelor's and Master's in Chemical Engineering from the Indian Institute of Technology, Kanpur, in India. His research interests involve the mathematical modeling of particle-laden flows on High-Performance Computing (HPC) platforms. As a part of his doctoral research, he has developed a fast and scalable code to solve non-linear Partial Differential equations for fluid flows containing non-spherical rigid bodies.
+
 ++++ Oct 26, 2023 ++++
 
 **Speaker:** 

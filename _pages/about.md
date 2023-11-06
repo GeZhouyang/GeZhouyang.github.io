@@ -19,8 +19,8 @@ affect their collective motion and the bulk fluid properties.
 My training is in computational fluid dynamics and
 I study active matter problems mainly via detailed numerical simulations.
 
-Active matter are not only of fundamental physical interest but also have potential practical applications,
-such as directed drug delivery or biofuel/cultured meat production.
+Active matter are not only of fundamental physical interest but also have many potential applications 
+in energy, sustainability, and health.
 My goal is to contribute to the understanding and development of active matter
 using rigorous hydrodynamic theories and advanced numerical algorithms.
 
