@@ -8,6 +8,31 @@ author_profile: true
 ## UBC Fluids Seminar
 Weekly fluids seminar by researchers or guests at UBC.
 
+++++ Nov 16, 2023 ++++
+
+*APS DFD Special*
+
+**Speakers:** 
+Zelai Xu, Jiahao Gong, Zhouyang Ge, Guodong Gai (all from UBC)
+
+**Titles:**
+Hystereses in one-dimensional compression of a poroelastic hydrogel (Xu)
+
+Spheroidal swimmers in viscosity gradients (Gong)
+
+Activity-induced dynamics in dense binary suspensions of shakers (Ge)
+
+Dynamics and Rheology of Immersed Elastic Capsules in A Simple Shear Flow (Gai)
+
+**Bio:**
+Zelai Xu is currently in the third year of his Ph.D. program working with Professor James Feng. His focus lies in numerically simulating the interplay between flow fields and hydrogels. In the talk, Zelai is going to introduce his findings from his latest study, “Hystereses in one-dimensional compression of a poroelastic hydrogel”.
+
+Jiahao Gong is a final-year Ph.D. candidate at the University of British Columbia. He earned his Bachelor's and Master's degrees in Mechanical Engineering from Shanghai Jiao Tong University and the University of California, San Diego, respectively. His research focuses on utilizing asymptotic methods and the reciprocal theorem to investigate the dynamics of active particles with various shapes in complex fluids. During APS DFD, he will give a presentation on the topic of spheroidal swimmers in the presence of viscosity gradients.
+
+Zhouyang Ge is an international postdoc jointly hosted by UBC and KTH (Sweden). His expertise is in computational fluid dynamics and he is currently interested in problems at the intersection of fluid mechanics and active matter, e.g. the collective dynamics of microswimmers.
+
+Guodong GAI is a PIMS-CNRS Postdoctoral Fellow at the University of British Columbia in Vancouver, Canada. His research is deeply rooted in applied mathematics and High-Performance Computing, using highly-resolved numerical methods for numerical investigation of multi-phase flows. The scope of his research encompass various domains such as the deformation of blood cells, the dynamics of solid angular particles in inertial flow, and droplet interactions with compressible flow, such as shock waves.
+
 ++++ Nov 9, 2023 ++++
 
 **Speaker:** 
