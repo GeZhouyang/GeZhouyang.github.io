@@ -8,6 +8,59 @@ author_profile: true
 ## UBC Fluids Seminar
 Weekly fluids seminar by researchers or guests at UBC.
 
+
+
+++++ Nov 30, 2023 ++++
+
+**Speaker:** 
+Marjan Zare (UBC)
+
+**Title:**
+Unlocking the Secrets: Time-dependent yield stress materials and the liberation of methane bubbles
+
+**Abstract:** 
+Almost half of global methane emissions come from diverse aquatic
+environments, including natural lakes and industrial ponds. Methane
+production in these systems occurs in sediments that exhibit yield stress
+behaviour and are capped with water. Bubbles become trapped when buoyancy
+generates insufficient stress to yield the surrounding material. However,
+the small rising bubbles recorded in in-situ measurements do not conform to
+the stability criterion. This raises the question: how are these single
+bubbles released from these systems? In this talk, I will discuss our
+computational efforts and experiments aimed at understanding the effects of
+the time dependence of yield stress materials on the flow around rising
+single bubbles. I will show how nonuniform rheology influences the
+stability criterion of bubbles, as well as the shape and trajectory of
+ascending bubbles. I will demonstrate how the time dependency of these
+fluids facilitates bubble motion through the creation of self-generated
+networks. Finally, I will detail the role of these bubbles in
+transporting materials from sediments to the water layer.
+
+**Bio:**
+Dr. Marjan Zare is the manager of the Complex Fluids laboratory and a
+Research Associate at the University of British Columbia. She uses
+experimental and computational tools to understand and model the rheology
+and flow of complex fluids, in particular yield stress fluids. Her research
+tackles problems of high relevance to GHG emission and Canada's renewable
+and sustainable energy.
+
+
+++++ Nov 23, 2023 ++++
+
+**Speaker:** 
+Marco E. Rosti (OIST)
+
+**Title:**
+Polymeric turbulence at large Reynolds and Deborah numbers
+
+**Abstract:** 
+Turbulent flows containing modest amounts of long-chained polymers have remained an intriguing area of research since the discovery of turbulent drag reduction. Here, we perform direct numerical simulations of statistically stationary, homogeneous, and isotropic turbulent flows of dilute solutions of polymers at various Deborah numbers. We present evidence that there is a range of scales r over which the energy spectra and the structure functions show new scaling consistent with recent experimental results. In particular, we find that for small wavenumbers k, the kinetic energy spectrum shows Kolmogorov-like behavior which crosses over at a larger k to a novel, elastic scaling regime, E(k)~k^−ξ, with ξ ≈ 2.3. We uncover the mechanism of the elastic scaling by studying the contribution of the polymers to the flux of kinetic energy through scales, and show that this elastic behaviour is non-monotonic in the Deborah number. Finally, I’ll briefly show how the results change when the Reynolds number is reduced.
+
+**Bio:**
+Marco Edoardo Rosti is an Assistant Professor at the Okinawa Institute of Science and Technology (OIST), Japan, since 2020. He received a Master in Aeronautical Engineering from Politecnico di Milano in 2013, and PhD in Aeronautical Engineering at City, University of London in 2016. Before joining OIST, he spent time as postdoctoral fellow at the KTH Royal Institute of Technology, Sweden, and at the University of Tokyo, Japan. Marco's research interests are in the general area of multiphase turbulence and complex fluids. He was the recipient of the RYUMON Award for distinguished young researcher in fluid mechanics, by the Japanese Society of Fluid Mechanics in 2021, and he is associate editor of the European Journal of Mechanics/B and editor of Results in Engineering.
+
+
+
 ++++ Nov 16, 2023 ++++
 
 *APS DFD Special*
@@ -33,6 +86,8 @@ Zhouyang Ge is an international postdoc jointly hosted by UBC and KTH (Sweden). 
 
 Guodong GAI is a PIMS-CNRS Postdoctoral Fellow at the University of British Columbia in Vancouver, Canada. His research is deeply rooted in applied mathematics and High-Performance Computing, using highly-resolved numerical methods for numerical investigation of multi-phase flows. The scope of his research encompass various domains such as the deformation of blood cells, the dynamics of solid angular particles in inertial flow, and droplet interactions with compressible flow, such as shock waves.
 
+
+
 ++++ Nov 9, 2023 ++++
 
 **Speaker:** 
@@ -46,6 +101,8 @@ Flows laden with rigid bodies are ubiquitous in both industrial and natural envi
 
 **Bio:**
 Aashish is a final-year Ph.D. candidate at the University of British Columbia. He did his Bachelor's and Master's in Chemical Engineering from the Indian Institute of Technology, Kanpur, in India. His research interests involve the mathematical modeling of particle-laden flows on High-Performance Computing (HPC) platforms. As a part of his doctoral research, he has developed a fast and scalable code to solve non-linear Partial Differential equations for fluid flows containing non-spherical rigid bodies.
+
+
 
 ++++ Oct 26, 2023 ++++
 
@@ -62,6 +119,8 @@ In this talk, I will present recent theoretical and numerical progress in modeli
 Prof. Garaud is the Chair of the Department of Applied Mathematics at UC Santa Cruz, and a fellow of the American Physical Society. She specializes
 in the study of transport by turbulence in geophysical and astrophysical fluids.
 
+
+
 ++++ Oct 19, 2023 ++++
 
 **Speaker:** 
@@ -76,6 +135,8 @@ predict key quantities such as the effective diffusivity. In the second part, we
 
 **Bio:**
 Jean-Luc Thiffeault is a professor of Mathematics at University of Wisconsin - Madison. He received his PhD in Physics from the University of Texas - Austin. His research interests include transport and mixing in fluid dynamics, topology and dynamical systems, and microswimmers as active matter.
+
+
 
 ++++ Oct 12, 2023 ++++
 
@@ -93,6 +154,8 @@ Here I focus on the μm - mm sized particles swimming in fluid viscosity or dens
 **Bio:**
 Vaseem obtained his PhD from Purdue University in 2020. In his research, Vaseem uses asymptotic techniques to understand the motion of particles or swimming organisms in complex flows. His current interests are fluid dynamics and non-equilibrium statistical mechanics of active matter.
 
+
+
 ++++ Oct 5, 2023 ++++
 
 **Speaker:** 
@@ -106,6 +169,8 @@ In some vertebrates such as lampreys, swimming function can be regained after sp
 
 **Bio:**
 Lisa Fauci received her PhD from the Courant Institute of Mathematical Sciences at New York University, and directly after that joined the Department of Mathematics at Tulane University in New Orleans. Her research focuses on biological fluid dynamics, with an emphasis on using modeling and simulation to study the basic biophysics of organismal locomotion and reproductive mechanics. Lisa served as president of the Society for Industrial and Applied Mathematics (SIAM) in 2019-2020.  In 2023, she was elected to the US National Academy of Sciences. 
+
+
 
 ++++ Sep 28, 2023 ++++
 
@@ -121,6 +186,8 @@ Multiphase fluid-structure interaction is a bi-directional coupling between mult
 **Bio:**
 Xiaoyu is a post-doctoral fellow in the Computational Multiphysics Lab under the supervision of Prof. Rajeev Jaiman at UBC. After defending his Ph.D. thesis in August, he is currently working on ANSYS funded project focusing on the numerical stability of fluid-structure interaction for biomechanics and marine engineering applications. He has developed the interface and geometry-preserving methods for a novel and general-purpose unified continuum mechanics framework, which can simulate multiphase fluid-structure interactions with contact dynamics and topology changes at low and high Reynolds numbers. 
   
+
+
 ++++ Sep 21, 2023 ++++
 
 **Speaker:** 
