@@ -12,11 +12,11 @@ author_profile: true
 * UBC Fluids Seminar [(list)](/ubc-fluids/)
 * Physical Review Journal Club [(Link)](https://journals.aps.org/journal-club)
 * JFM Webinar Series [(Link)](https://cassyni.com/s/fmws/seminars)
-* JNNFM Seminar Series (2020-2022) [(Link)](http://pcwww.liv.ac.uk/~robpoole/jnnfm/jnnfm_seminar.htm)
+* JNNFM + JoR + RA Seminar Series [(Link)](http://pcwww.liv.ac.uk/~robpoole/jnnfm/jnnfm_seminar.htm)
 * LMFL Fluid Mechanics Webinar [(Link)](https://lmfl.cnrs.fr/en/the-laboratory/webinar/)
 * klogW talks (2020-2022) [(Link)](https://gsnpaps.wixsite.com/home)
 * Boulder School 2022: Hydrodynamics Across Scales [(Link)](https://www.youtube.com/playlist?list=PL8mMEmoXNBfaFV2wA4lDD7j_f2l7BTYIV)
-
+* KITP Program (2018): Physics of Dense Suspensions [(Link)](https://online.kitp.ucsb.edu/online/suspensions18/)
 
 ## Papers
 
