@@ -10,6 +10,26 @@ Weekly fluids seminar by researchers or guests at UBC.
 
 
 
+
+
+++++ Dec 7, 2023 ++++
+
+**Speaker:** 
+M. F. Naccache (PUC-Rio)
+
+**Title:**
+Microstructure and rheology in fluids of the oil industry
+
+**Abstract:** 
+ Non-Newtonian fluids are widely used in a variety of research areas as well as numerous industrial applications, including the food, pharmaceutical, and petroleum industries. As rheologists, the internal structures of these complex fluids are of significant interest as it allows us to analyze and understand better the obtained results of rheological experiments. Looking specifically at the oil industry, there are several model fluids that are used to understand and improve some operations like re-start flow in pipelines, plug & abandonment, drilling and cementation. Rheology plays an important role in all these processes. Then, it is interesting to look and relate the fluid microstucture to rheology, to help understanding the effects of rheology in the processes. Cryo-Scanning Electron Microscopy (cryo-SEM) is a one reasonable means for observing and investigating the microstructure of complex fluids. Using this method, we show the microstructure of some fluids and nanofluids, and relate these microstructures to the rheology and to flow behavior. We present some promising implementation cases of this cryo-SEM approach for various non-Newtonian fluids.
+
+**Bio:**
+Mônica F. Naccache is an Associate Professor in the Department of Mechanical Engineering at Pontifícia Universidade Católica do Rio de Janeiro, Brazil (PUC-Rio), where she served as head of the Department of Mechanical Engineering at PUC-Rio, from 2014 to 2021. She was visiting Professor at the University of British Columbia, in 2007-2008. Monica was founder of the Brazilian Society of Rheology (BSR), has served as president from 2017 to 2019, and is currently vice-president of the BSR. She organized four Brazilian Conferences on Rheology, the Workshop: Viscoplastic Fluids: From Theory to Applications in 2011 and was vice-chair of the 18th International Congress on Rheology, 2020. She currently serves as Associate Editor of the Physics of Fluids Journal.
+
+Monica is a Mechanical Engineer and received her Master’s and DSc also in Mechanical Engineering at PUC-Rio. She has experience in the areas of fluid mechanics and rheology, focusing on numerical simulation of flows of non-Newtonian fluids, rheology of thixotropic and elasto-viscoplastic materials, and interfacial rheology. She has co-authored more than 65 publications in peer-reviewed journals and contributed as reviewer for Journal of Rheology, Journal of Non-Newtonian Fluids Mechanics, Rheologica Acta, Physics of Fluids, among others. Monica has a strong collaboration with industrial partners, including energy companies and cosmetic industries. Monica is vice-coordinator of the Rheology Group at PUC-Rio, a research group sponsored by Industry and Government agencies involving around 30 people including faculty, researchers, technicians, and students.
+
+
+
 ++++ Nov 30, 2023 ++++
 
 **Speaker:** 
