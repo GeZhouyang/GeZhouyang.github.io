@@ -14,7 +14,7 @@ Weekly fluids seminar by researchers or guests at UBC.
 
 *Bonus session!*
 
-**Speakers:**
+**Speaker:**
 Arisa Yokokoji (OIST)
 
 **Title:**
@@ -27,7 +27,7 @@ Viscoelastic flows in the cross-slot geometry can undergo a transition from a st
 I obtained my MSc degree in polymer science from Osaka University, Japan in 2022. After that I began my work a PhD student at OIST under the supervision of Prof. Amy Shen on the Microfluidics Unit. My current interests are viscoelastic flow instabilities and elastic turbulence.
 
 
-**Speakers:**
+**Speaker:**
 Mauricio Andres Rios Maciel (OIST)
 
 **Title:**
