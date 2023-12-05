@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+### Preprints
+
+* <u>Ge, Zhouyang</u>, Shervin Bagheri, and Gwynn J. Elfring. "Enhanced hydrodynamic diffusion in dense binary active suspensions." arXiv:[2311.09448](https://arxiv.org/abs/2311.09448).
+
+### Peer-reviewed journal articles
+
 <ol reversed>
 
 <li>
