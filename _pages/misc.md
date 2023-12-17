@@ -14,4 +14,4 @@ Some interesting vidoes and articles.
 * Gateway to astronaut photography of Earth [(Link)](https://eol.jsc.nasa.gov/Videos/CrewEarthObservationsVideos/NorthAmerica.htm)
 * The Unix Philosophy [(Link)](http://www.linfo.org/unix_philosophy.html)
 * On time management (Terence Tao) [(Link)](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
-* 42 [(Link)](https://news.mit.edu/2019/answer-life-universe-and-everything-sum-three-cubes-mathematics-0910)
+* [42](https://news.mit.edu/2019/answer-life-universe-and-everything-sum-three-cubes-mathematics-0910)
