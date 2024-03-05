@@ -9,7 +9,6 @@ author_profile: true
 
 ## Talks
 
-* UBC Fluids Seminar [(list)](/ubc-fluids/)
 * Physical Review Journal Club [(Link)](https://journals.aps.org/journal-club)
 * JFM Webinar Series [(Link)](https://cassyni.com/s/fmws/seminars)
 * JNNFM + JoR + RA Seminar Series [(Link)](http://pcwww.liv.ac.uk/~robpoole/jnnfm/jnnfm_seminar.htm)
@@ -36,6 +35,7 @@ author_profile: true
 * Linné FLOW Centre (KTH) [(Link)](https://www.flow.kth.se/about-flow)
 * Nordic Institute for Theoretical Physics [(Link)](https://www.nordita.org/)
 * Institute of Applied Mathematics (UBC) [(Link)](https://www.iam.ubc.ca/)
+* UBC Fluids Seminar [(list)](/ubc-fluids/)
 * UBC Mechanics Club [(list)](/vfc/)
 * St John's College (UBC) [(Link)](https://stjohns.ubc.ca/)
 * Pacific Spirit Park Society (Vancouver) [(Link)](http://pacificspiritparksociety.org/)
