@@ -20,7 +20,7 @@ Feel free to write to me if you cannot access the papers or have any questions.
 ### Preprints
 
 * ~~Enhanced hydrodynamic diffusion in dense binary active suspensions.~~
-<u>Ge, Zhouyang</u>, Shervin Bagheri, and Gwynn J. Elfring. 
+Ge, Zhouyang, Shervin Bagheri, and Gwynn J. Elfring. 
 arXiv:2311.09448.
 (_Unfortunately, there was a bug in my code causing the enhanced diffusion. Some results in the manuscript are still correct. I will post a correction as soon as possible._)
 
