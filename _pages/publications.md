@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Feel free to write to me for pdfs of the papers or further details.
+Feel free to write to me if you cannot access the papers or have any questions.
 
 ### Preprints
 
@@ -30,55 +30,55 @@ arXiv:2311.09448.
 
 <li>
 Rheology of periodically sheared suspensions undergoing reversible-irreversible transition.<br>
-<u>Ge, Zhouyang</u> and Gwynn J. Elfring.<br>
+Ge, Zhouyang and Gwynn J. Elfring.<br>
 <a href="https://link.aps.org/doi/10.1103/PhysRevE.106.054616"><i>Physical Review E</i> 106, 054616 (2022).</a>
 </li>
 
 <li>
 Irreversibility and rate dependence in sheared adhesive suspensions.<br>
-<u>Ge, Zhouyang</u>, Raffaella Martone, Luca Brandt, and Mario Minale.<br>
+Ge, Zhouyang, Raffaella Martone, Luca Brandt, and Mario Minale.<br>
 <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.L101301"><i>Physical Review Fluids</i> 6, L101301 (2021).</a>
 </li>
 
 <li>
 A mass-preserving interface-correction level set/ghost fluid method for modeling of three-dimensional boiling flows.<br>
-Ningegowda, B.M., <u>Zhouyang Ge</u>, Giandomenico Lupo, Luca Brandt, and Christophe Duwig.<br>
+Ningegowda, B.M., Zhouyang Ge, Giandomenico Lupo, Luca Brandt, and Christophe Duwig.<br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0017931020333184"><i>International Journal of Heat and Mass Transfer</i> 162, 120382 (2020).</a>
 </li>
 
 <li> 
 Theory of hydrodynamic interaction of two spheres in wall-bounded shear flow.<br>
-Fouxon, Itzhak, Boris Rubinstein, <u>Zhouyang Ge</u>, Luca Brandt, and Alexander Leshansky.<br>
+Fouxon, Itzhak, Boris Rubinstein, Zhouyang Ge, Luca Brandt, and Alexander Leshansky.<br>
 <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.054101"><i>Physical Review Fluids</i> 5, 054101 (2020).</a>
 </li>
 
 <li> 
 Droplets in homogeneous shear turbulence.<br>
-Rosti, Marco E., <u>Zhouyang Ge</u>, Suhas S. Jain, Michael S. Dodd, and Luca Brandt.<br>
+Rosti, Marco E., Zhouyang Ge, Suhas S. Jain, Michael S. Dodd, and Luca Brandt.<br>
 <a href="https://doi.org/10.1017/jfm.2019.581"><i>Journal of Fluid Mechanics</i> 876, pp. 962-984 (2019).</a>
 </li>
 
 <li> 
 Flow-assisted droplet assembly in a 3D microfluidic channel.<br>
-<u>Ge, Zhouyang</u>, Outi Tammisola, and Luca Brandt.<br>
+Ge, Zhouyang, Outi Tammisola, and Luca Brandt.<br>
 <a href="https://doi.org/10.1039/C8SM02479K"><i>Soft Matter</i> 15, 3451-3460 (2019).</a>
 </li>
 
 <li> 
 Effective slip over partially filled microcavities and its possible failure.<br>
-<u>Ge, Zhouyang</u>, Hanna Holmgren, Martin Kronbichler, Luca Brandt, and Gunilla Kreiss.<br>
+Ge, Zhouyang, Hanna Holmgren, Martin Kronbichler, Luca Brandt, and Gunilla Kreiss.<br>
 <a href="https://doi.org/10.1103/PhysRevFluids.3.054201"><i>Physical Review Fluids</i> 3, 054201 (2018).</a>
 </li>
 
 <li> 
 An efficient mass-preserving interface-correction level set/ghost fluid method for droplet suspensions under depletion forces.<br>
-<u>Ge, Zhouyang</u>, Jean-Christophe Loiseau, Outi Tammisola, and Luca Brandt.<br>
+Ge, Zhouyang, Jean-Christophe Loiseau, Outi Tammisola, and Luca Brandt.<br>
 <a href="https://doi.org/10.1016/j.jcp.2017.10.046"><i>Journal of Computational Physics</i> 353, pp. 435-459 (2018).</a>
 </li>
 
 <li> 
 Integral representation of channel flow with interacting particles.<br>
-Fouxon, Itzhak, <u>Zhouyang Ge</u>, Luca Brandt, and Alexander Leshansky.<br>
+Fouxon, Itzhak, Zhouyang Ge, Luca Brandt, and Alexander Leshansky.<br>
 <a href="https://doi.org/10.1103/PhysRevE.96.063110"><i>Physical Review E</i> 96, 063110 (2017).</a>
 </li>
 
@@ -90,7 +90,7 @@ Fouxon, Itzhak, <u>Zhouyang Ge</u>, Luca Brandt, and Alexander Leshansky.<br>
 
 <li>
 Implementation note on a minimal hybrid lubrication/granular dynamics model for dense suspensions.<br>
-<u>Ge, Zhouyang</u> and Luca Brandt.<br>
+Ge, Zhouyang and Luca Brandt.<br>
 <a href="https://doi.org/10.48550/arXiv.2005.12755">arXiv:2005.12755 (2020).</a>
 </li>
 
