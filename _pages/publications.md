@@ -22,7 +22,7 @@ Feel free to write to me for pdfs of the papers or further details.
 * ~~Enhanced hydrodynamic diffusion in dense binary active suspensions.~~
 <u>Ge, Zhouyang</u>, Shervin Bagheri, and Gwynn J. Elfring. 
 arXiv:2311.09448.
-(_Unfortunately, the manuscript was based on wrong data (there was a bug in my code). Not all results are wrong, but the difference is substantial. I will post a correction as soon as possible._)
+(_Unfortunately, there was a bug in my code causing the enhanced diffusion. Some results in the manuscript are still correct. I will post a correction as soon as possible._)
 
 ### Peer-reviewed journal articles
 
@@ -31,8 +31,7 @@ arXiv:2311.09448.
 <li>
 Rheology of periodically sheared suspensions undergoing reversible-irreversible transition.<br>
 <u>Ge, Zhouyang</u> and Gwynn J. Elfring.<br>
-<i>Physical Review E</i> 106, 054616 (2022).
-<a href="https://link.aps.org/doi/10.1103/PhysRevE.106.054616">(Link)</a>
+<a href="https://link.aps.org/doi/10.1103/PhysRevE.106.054616"><i>Physical Review E</i> 106, 054616 (2022).</a>
 </li>
 
 <li>
