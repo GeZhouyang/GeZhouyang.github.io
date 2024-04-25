@@ -9,26 +9,20 @@ redirect_from:
 ---
 
 I am a postdoc in fluid mechanics at the University of British Columbia in Vancouver, Canada.
-I am also affiliated with KTH Royal Institute of Technology (Stockholm, Sweden) 
-through an international grant sponsored by the Swedish Research council.
+Officially, I am also affiliated with KTH Royal Institute of Technology in Stockholm, Sweden,
+though I am currently in Canada.
 
-My current research is at the intersection of complex fluids, multiphase flow, and active matter.
-Specifically, I am interested in dense particle suspensions, 
-where large amounts of microscopic particles (e.g., microplastics or microswimmers)
-are suspended in a fluid environment and coupled to each other by hydrodynamic interactions.
-When driven away from equilibrium - by either an external motion or the particles themselves, or both - 
-the particles may self-organize, exhibit enhanced diffusion, 
-or even move together as a "superfluid" (i.e., with a vanishing viscosity).
-Although hydrodynamic interactions are widely believed to play an important role in many of these phenomena,
-obtaining an accurate understanding of their effects has remained difficult due to the nonequilibrium nature and many-body interactions involved (theories usually don't work in dense suspensions).
-It is important to obtain a quantitative understanding of the hydrodynamic effects,
-if we want to utilize them in practical applications (e.g., directed drug delivery or biofuel production).
-The goal of my research is to provide such understandings in driven dense suspensions.
+My research is at the intersection of complex fluids, multiphase flow, and active matter.
+Specifically, I study dense particle suspensions, which is the "simplest" complex fluids, 
+yet still display many interesting phenomena such as self-organization, enhanced diffusion, or even a "superfluidic" rheology.
+The main question my research tries to answer is:
+_How do hydrodynamic interactions affect those behaviors?_
+Addressing this question is not only of fundamental physical interest,
+but also has practical implications in applications as diverse as directed drug delivery and biofuel production.
 
-I develop and use advanced numerical solvers to study the dynamics and rheology of complex and active fluids.
-Currently, I am maintaining a GPU-accelerated solver called Fast Stokesian Dynamics, which was originally developed at MIT.
-In the past, I have also worked with various other methods for reduced-order modelling of dense suspensions
-and direct numerical simulations of multiphase flow, see the GitHub page for details.
+I develop and use advanced numerical solvers to simulate the dynamics of complex and active fluids.
+The programs I use are all open-source and can be found in my Github page linked here.
+Feel free to contact me if you have any comments or questions.
 
 
 ## Profile
