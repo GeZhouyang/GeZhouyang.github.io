@@ -15,13 +15,12 @@ though I am currently in Canada.
 My research is at the intersection of complex fluids, multiphase flow, and active matter.
 Specifically, I study dense particle suspensions, which is the "simplest" complex fluids, 
 yet still display many interesting phenomena such as self-organization, enhanced diffusion, or even a "superfluidic" rheology.
-The main question my research tries to answer is:
-_How do hydrodynamic interactions affect those behaviors?_
-Addressing this question is not only of fundamental physical interest,
+The main question my research tries to answer is "_How do hydrodynamic interactions affect those behaviors?_"
+Addressing this question is not only of fundamental physical interest (nonequilibrium systems),
 but also has practical implications in applications as diverse as directed drug delivery and biofuel production.
 
 I develop and use advanced numerical solvers to simulate the dynamics of complex and active fluids.
-The programs I use are all open-source and can be found in my Github page linked here.
+The programs I use are all open-source and can be found in my Github page.
 Feel free to contact me if you have any comments or questions.
 
 
