@@ -13,15 +13,14 @@ Officially, I am also affiliated with KTH Royal Institute of Technology in Stock
 though I am currently in Canada.
 
 My research is at the intersection of complex fluids, multiphase flow, and active matter.
-Specifically, I study dense particle suspensions, which is the "simplest" complex fluids, 
-yet still display many interesting phenomena such as self-organization, enhanced diffusion, or even a "superfluidic" rheology.
+Specifically, I study dense particle suspensions, which are the "simplest" complex fluids, 
+yet still display many interesting phenomena such as self-organization, enhanced diffusion, or even "superfluidic" rheologies.
 The main question my research tries to answer is "_How do hydrodynamic interactions affect those behaviors?_"
-Addressing this question is not only of fundamental physical interest (nonequilibrium systems),
+Addressing this question is not only of fundamental physical interest (nonequilibrium statistical mechanics),
 but also has practical implications in applications as diverse as directed drug delivery and biofuel production.
 
 I develop and use advanced numerical solvers to simulate the dynamics of complex and active fluids.
-The programs I use are all open-source and can be found in my Github page.
-Feel free to contact me if you have any comments or questions.
+The programs I use are all open-source (see the Github page) and I am happy to help if you have any questions.
 
 
 ## Profile
