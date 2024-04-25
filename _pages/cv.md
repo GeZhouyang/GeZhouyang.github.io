@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact information"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,11 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Department of Engineering Mechanics <br />
-KTH Royal Institute of Technology <br />
-SE-100 44 Stockholm, Sweden <br />
-zhoge_at_mech.kth.se
 
 ## Positions
 

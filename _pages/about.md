@@ -8,29 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in fluid mechanics at the University of British Columbia in Vancouver, Canada,
-and KTH Royal Institute of Technology in Stockholm, Sweden.
+I am a postdoc in fluid mechanics at the University of British Columbia in Vancouver, BC, Canada.
+I am also affiliated with KTH Royal Institute of Technology (Stockholm, Sweden) 
+through an international grant sponsored by the Swedish Research council.
 
-My current research interests are at the intersection of complex fluids and active matter.
-Specifically, I study dense particle suspensions,
-i.e., fluids containing a large amount of active or inactive particles,
-to understand how hydrodynamic interactions between individual particles
-affect their collective motion and the bulk fluid properties.
-My training is in computational fluid dynamics and
-I study active matter problems mainly via detailed numerical simulations.
+My current research is at the intersection of complex fluids, multiphase flow, and active matter.
+Specifically, I am interested in _dense particle suspensions_, 
+where large amounts of microscopic particles (e.g., microplastics or microswimmers)
+are suspended in a fluid environment and coupled by many-body hydrodynamic interactions.
+When driven away from the equilibrium (either by an external motion or by the particles themselves, or both), 
+dense suspensions can display a multitude of interesting phenomena,
+including self-organization, enhanced diffusion, or even a superfluidic rheology.
+It is widely believed that hydrodynamic interactions play an important role in many of these behaviors;
+however, the present understanding is often not rigorous due to the difficulty in modelling the hydrodynamics accurately. 
+The goals of my research are to provide rigorous understanding of the hydrodynamic effects in driven dense suspensions 
+and discover new phenomena.
 
-Active matter are not only of fundamental physical interest but also have many potential applications 
-in energy, sustainability, and health.
-My goal is to contribute to the understanding and development of active matter
-using rigorous hydrodynamic theories and advanced numerical algorithms.
+I study the dynamics and rheological properties of complex/active fluids mainly using numerical simulations.
+The methods I have used include (fast) Stokesian dynamics, (hybrid) lubrication dynamics, 
+and various methods (level set, ghost fluid, phase field, etc.) for direct numerical simulations.
+I enjoy collaborating with experimentalists and other theorists,
+so feel free to write to me if you like to work on something together!
 
 
 ## Profile
 
 * Current position: Postdoctoral research fellow
 * Hosts: Profs. [Gwynn Elfring](https://soft.mech.ubc.ca/) (UBC) and [Shervin Bagheri](https://www.bagherigroup.com/) (KTH)
-* Research areas: Dense suspensions, Rheology, Multiphase flow.
-* Methodology: Computational fluid dynamics
+* Areas: Complex fluids, Multiphase flow, Active matter
+* Approach: Computational 
 
 
 ## Gallery
