@@ -9,12 +9,11 @@ redirect_from:
 ---
 
 I am a postdoc in fluid mechanics at the University of British Columbia in Vancouver, Canada.
-Officially, I am also affiliated with KTH Royal Institute of Technology in Stockholm, Sweden,
-though I am currently in Canada.
+Officially, I am also affiliated with KTH Royal Institute of Technology in Stockholm, Sweden.
 
 My research is at the intersection of complex fluids, multiphase flow, and active matter.
-Specifically, I study dense particle suspensions -- the "simplest" complex fluids which display many interesting phenomena
-such as self-organization, enhanced diffusion, or even "superfluidic" rheologies.
+Specifically, I study dense particle suspensions -- the "simplest" complex fluids that display a multitude of
+interesting phenomena such as self-organization, enhanced diffusion, or even "superfluidic" rheologies.
 The main question my research tries to answer is "_How do hydrodynamic interactions affect those behaviors?_"
 Addressing this question is not only of fundamental physical interest (nonequilibrium statistical mechanics),
 but also has practical implications in applications as diverse as directed drug delivery and biofuel production.

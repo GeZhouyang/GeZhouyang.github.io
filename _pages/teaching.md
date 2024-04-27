@@ -7,18 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-Below are some of my teaching experiences in grad school and beyond.
 
 ## Introduction of Diffusion (ISW, Winter 2023, UBC)
 
 Over four weekends in November and December 2023, I participated in a postdoc instructional skills workshop (ISW)
-offered by the Centre for the Integration of Research, Teaching and Learning ([CIRTL](https://cirtl.ubc.ca/)） at UBC.
+offered by the Centre for the Integration of Research, Teaching and Learning ([CIRTL](https://cirtl.ubc.ca/)) at UBC.
 The workshop focused on the theory and practice of evidence-based teaching techniques,
 where we learned various elements of learner-centred lesson design and taught three short lessons to each other.
-My topic was about diffusion and I broke it down into three parts:
-Brownian motion, the Stokes-Einstein equation, and the kinetic theory.
-To be honest, it was not easy to teach the subject since the audience were from diverse disciplines;
-but I wanted to experiment and the feedback was very helpful!
+My topic was about diffusion (Brownian motion, the Stokes-Einstein equation, and the kinetic theory),
+and I was teaching it to an audience from diverse disciplines (from biology to psychology).
+It was a fun experiment and the feedback was helpful!
 
 ## Applications of Classical Mechanics (PHYS 350, Winter 2022, UBC)
 

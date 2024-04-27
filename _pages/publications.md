@@ -19,14 +19,10 @@ Feel free to write to me if you cannot access the papers or have any questions.
 
 ### Preprints
 
-<ol reversed>
-
-<li> ~~Enhanced hydrodynamic diffusion in dense binary active suspensions.~~<br>
+* ~~Enhanced hydrodynamic diffusion in dense binary active suspensions.~~<br>
 Ge, Zhouyang, Shervin Bagheri, and Gwynn J. Elfring.
 arXiv:2311.09448.<br>
 (_Unfortunately, there was a bug in my code causing the enhanced diffusion. Some results in the manuscript are still correct. I will post a correction as soon as possible._)
-
-</ol>
 
 
 ### Peer-reviewed journal articles
