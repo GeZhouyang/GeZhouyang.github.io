@@ -19,10 +19,15 @@ Feel free to write to me if you cannot access the papers or have any questions.
 
 ### Preprints
 
-* ~~Enhanced hydrodynamic diffusion in dense binary active suspensions.~~<br>
-Ge, Zhouyang, Shervin Bagheri, and Gwynn J. Elfring. 
+<ol reversed>
+
+<li> ~~Enhanced hydrodynamic diffusion in dense binary active suspensions.~~<br>
+Ge, Zhouyang, Shervin Bagheri, and Gwynn J. Elfring.
 arXiv:2311.09448.<br>
 (_Unfortunately, there was a bug in my code causing the enhanced diffusion. Some results in the manuscript are still correct. I will post a correction as soon as possible._)
+
+</ol>
+
 
 ### Peer-reviewed journal articles
 
@@ -46,37 +51,37 @@ Ningegowda, B.M., Zhouyang Ge, Giandomenico Lupo, Luca Brandt, and Christophe Du
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0017931020333184"><i>International Journal of Heat and Mass Transfer</i> 162, 120382 (2020).</a>
 </li>
 
-<li> 
+<li>
 Theory of hydrodynamic interaction of two spheres in wall-bounded shear flow.<br>
 Fouxon, Itzhak, Boris Rubinstein, Zhouyang Ge, Luca Brandt, and Alexander Leshansky.<br>
 <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.054101"><i>Physical Review Fluids</i> 5, 054101 (2020).</a>
 </li>
 
-<li> 
+<li>
 Droplets in homogeneous shear turbulence.<br>
 Rosti, Marco E., Zhouyang Ge, Suhas S. Jain, Michael S. Dodd, and Luca Brandt.<br>
 <a href="https://doi.org/10.1017/jfm.2019.581"><i>Journal of Fluid Mechanics</i> 876, pp. 962-984 (2019).</a>
 </li>
 
-<li> 
+<li>
 Flow-assisted droplet assembly in a 3D microfluidic channel.<br>
 Ge, Zhouyang, Outi Tammisola, and Luca Brandt.<br>
 <a href="https://doi.org/10.1039/C8SM02479K"><i>Soft Matter</i> 15, 3451-3460 (2019).</a>
 </li>
 
-<li> 
+<li>
 Effective slip over partially filled microcavities and its possible failure.<br>
 Ge, Zhouyang, Hanna Holmgren, Martin Kronbichler, Luca Brandt, and Gunilla Kreiss.<br>
 <a href="https://doi.org/10.1103/PhysRevFluids.3.054201"><i>Physical Review Fluids</i> 3, 054201 (2018).</a>
 </li>
 
-<li> 
+<li>
 An efficient mass-preserving interface-correction level set/ghost fluid method for droplet suspensions under depletion forces.<br>
 Ge, Zhouyang, Jean-Christophe Loiseau, Outi Tammisola, and Luca Brandt.<br>
 <a href="https://doi.org/10.1016/j.jcp.2017.10.046"><i>Journal of Computational Physics</i> 353, pp. 435-459 (2018).</a>
 </li>
 
-<li> 
+<li>
 Integral representation of channel flow with interacting particles.<br>
 Fouxon, Itzhak, Zhouyang Ge, Luca Brandt, and Alexander Leshansky.<br>
 <a href="https://doi.org/10.1103/PhysRevE.96.063110"><i>Physical Review E</i> 96, 063110 (2017).</a>

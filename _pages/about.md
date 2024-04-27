@@ -13,8 +13,8 @@ Officially, I am also affiliated with KTH Royal Institute of Technology in Stock
 though I am currently in Canada.
 
 My research is at the intersection of complex fluids, multiphase flow, and active matter.
-Specifically, I study dense particle suspensions, which are the "simplest" complex fluids, 
-yet still display many interesting phenomena such as self-organization, enhanced diffusion, or even "superfluidic" rheologies.
+Specifically, I study dense particle suspensions -- the "simplest" complex fluids which display many interesting phenomena
+such as self-organization, enhanced diffusion, or even "superfluidic" rheologies.
 The main question my research tries to answer is "_How do hydrodynamic interactions affect those behaviors?_"
 Addressing this question is not only of fundamental physical interest (nonequilibrium statistical mechanics),
 but also has practical implications in applications as diverse as directed drug delivery and biofuel production.
@@ -28,7 +28,7 @@ The programs I use are all open-source (see the Github page) and I am happy to h
 * Current position: Postdoctoral research fellow
 * Hosts: Profs. [Gwynn Elfring](https://soft.mech.ubc.ca/) (UBC) and [Shervin Bagheri](https://www.bagherigroup.com/) (KTH)
 * Research areas: Complex fluids, Multiphase flow, Active matter
-* Methodology: Computational 
+* Methodology: Computational
 
 
 ## Gallery

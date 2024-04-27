@@ -1,11 +1,24 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
 permalink: /teaching1/
 author_profile: true
 ---
 
 {% include base_path %}
+
+Below are some of my teaching experiences in grad school and beyond.
+
+## Introduction of Diffusion (ISW, Winter 2023, UBC)
+
+Over four weekends in November and December 2023, I participated in a postdoc instructional skills workshop (ISW)
+offered by the Centre for the Integration of Research, Teaching and Learning ([CIRTL](https://cirtl.ubc.ca/)） at UBC.
+The workshop focused on the theory and practice of evidence-based teaching techniques,
+where we learned various elements of learner-centred lesson design and taught three short lessons to each other.
+My topic was about diffusion and I broke it down into three parts:
+Brownian motion, the Stokes-Einstein equation, and the kinetic theory.
+To be honest, it was not easy to teach the subject since the audience were from diverse disciplines;
+but I wanted to experiment and the feedback was very helpful!
 
 ## Applications of Classical Mechanics (PHYS 350, Winter 2022, UBC)
 
@@ -17,7 +30,7 @@ I gave a guest lecture near the end of the course on the topic of
 The detailed course materials (lecture notes and demo code) are
 [here](https://github.com/GeZhouyang/two-link-swimmer).
 
-## Boundary layer lab, Heat engines lab (SG1217, SG2214, SG1216, 2016-2019, KTH)
+## Boundary Layer & Heat Engines Labs (SG1217, SG2214, SG1216, 2016-2019, KTH)
 
 These labs were part of the degree program for Engineering Physics and
 Aerospace/Vehicle Engineering students at KTH (mainly undergrad level).
@@ -28,9 +41,9 @@ as well as to make sure they were safe during the experiments!
 Fun fact: We were interviewed by the Swedish National TV during one
 [experiment](/images/svt_kth_lab.png)!
 
-## Dynamics of fluids (AME 309, 2014-2015, USC)
+## Dynamics of Fluids (AME 309, 2014-2015, USC)
 
 This was an undergrad course on fluid dynamics.
 I was grading the homework assignments of around 50 students
 for Professor [Veronica Eliasson](http://eliasson.mines.edu/)
-and Dr. David C. Wilcox, respectively.
+and Dr. David C. Wilcox (inventor of the _k-ω_ model!), respectively.

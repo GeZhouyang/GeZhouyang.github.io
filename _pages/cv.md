@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,29 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+Department of Mechanical Engineering & Institute of Applied Mathematics <\br>
+University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
+
+FLOW & Department of Engineering Mechanics <\br>
+KTH Royal Institute of Technology, 100 44 Stockholm, Sweden
+
 ## Positions
 
-* University of British Columbia, Vancouver, BC, Canada (2020-)
-  * Postdoc. Advisor: [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/)
-  * At KTH for a year (2022-2023). Host: [Prof. Shervin Bagheri](https://www.bagherigroup.com/)
+* Postdoctoral Research Fellow
+    * University of British Columbia, Vancouver, BC, Canada (09/2022 - Present)
+    * {{site.data.education.PhD.university}} (06/2022 - Present)
+    * University of British Columbia, Vancouver, BC, Canada (11/2020 - 05/2022)
+
+* Research Engineer
+  * {{site.data.education.PhD.university}} (04/2020 - 11/2020)
 
 ## Education
 
-* {{site.data.education.PhD.university}} (2015-2020)
+* {{site.data.education.PhD.university}} (04/2020)
   * Ph.D. in {{site.data.education.PhD.major}}
   * Advisors: [Profs. Luca Brandt](https://www.mech.kth.se/~luca/) and [Outi Tammisola](https://www.mech.kth.se/mech/info_staff.xhtml?ID=219)
 
-* {{site.data.education.MS.university}} (2013-2015)
+* {{site.data.education.MS.university}} (05/2015)
   * M.S. in {{site.data.education.MS.major}}
 
-* {{site.data.education.BEng.university}} (2009-2013)
+* {{site.data.education.BEng.university}} (06/2013)
     * B.Eng. in {{site.data.education.BEng.major}}, graduated with honor.
 
 ## Awards
 
 * Tetra Pak Award in Computational Fluid Dynamics, Swedish National Committee for Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
 * Outstanding graduate honor, Jilin University (2013)
-* 1st class Scholarship, Jilin University (2010,2012,2013)
+* First class Scholarship, Jilin University (2010,2012,2013)
 * National Scholarship, Ministry of Education of China (2011)
 
 ## Grants
@@ -41,4 +51,3 @@ redirect_from:
 ## Membership
 
 * American Physical Society (APS)
-* Society for Industrial and Applied Mathematics (SIAM)

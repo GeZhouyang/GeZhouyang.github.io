@@ -83,7 +83,7 @@ author:
   name             : "Zhouyang Ge"
   avatar           : "self_bowen.png"
   bio              : "Postdoc in fluid mechanics"
-  location         : #"Vancouver, Canada"
+  location         : "Vancouver, Canada"
   employer         : #"University of British Columbia"
   affiliation      : "Department of Mechanical Engineering and Institute of Applied Mathematics"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4222-012X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
