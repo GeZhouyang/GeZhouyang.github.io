@@ -19,7 +19,7 @@ Feel free to write to me if you cannot access the papers or have any questions.
 
 ### Preprints
 
-* ~~Hydrodynamic diffusion in apolar active suspensions.~~<br>
+* Hydrodynamic diffusion in apolar active suspensions.<br>
 Ge, Zhouyang and Gwynn J. Elfring.
 arXiv:2311.09448.<br>
 
