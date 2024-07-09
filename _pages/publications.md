@@ -19,9 +19,15 @@ Feel free to write to me if you cannot access the papers or have any questions.
 
 ### Preprints
 
-* Hydrodynamic diffusion in apolar active suspensions.<br>
-Ge, Zhouyang and Gwynn J. Elfring.
-arXiv:2311.09448.<br>
+<ol reversed>
+
+<li>
+Hydrodynamic diffusion in apolar active suspensions.<br>
+Ge, Zhouyang and Gwynn J. Elfring.<br>
+<a href="https://doi.org/10.48550/arXiv.2311.09448">arXiv:2311.09448.</a>
+</li>
+
+</ol>
 
 
 ### Peer-reviewed journal articles
