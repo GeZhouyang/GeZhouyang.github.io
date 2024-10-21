@@ -8,6 +8,7 @@ author_profile: true
 ## Miscellaneous
 Some interesting articles, podcasts, and videos.
 
+* The Feynman Lectures on Physics (1961-1964) [(Link)](https://www.feynmanlectures.caltech.edu/)
 * Feynman's Messenger Lectures (1964) [(Link)](https://www.feynmanlectures.caltech.edu/messenger.html)
 * Cargo Cult Science -- R.P. Feynman (1974) [(Link)](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
 * Intelligent Machinery, A Heretical Theory -- A.M. Turing (1951) [(pdf)](https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Turing/Turing-1951%20Intelligent%20Machinery-a%20Heretical%20Theory.pdf)
