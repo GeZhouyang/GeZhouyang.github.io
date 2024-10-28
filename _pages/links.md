@@ -35,8 +35,8 @@ author_profile: true
 * Linné FLOW Centre (KTH) [(Link)](https://www.flow.kth.se/about-flow)
 * Nordic Institute for Theoretical Physics [(Link)](https://www.nordita.org/)
 * Institute of Applied Mathematics (UBC) [(Link)](https://www.iam.ubc.ca/)
-* UBC Fluids Seminar [(list)](/ubc-fluids/)
-* UBC Mechanics Club [(list)](/vfc/)
+* UBC Fluids Seminar (fall 2023) [(list)](/ubc-fluids/)
+* UBC Mechanics Club (2021-2022) [(list)](/vfc/)
 * St John's College (UBC) [(Link)](https://stjohns.ubc.ca/)
 * Pacific Spirit Park Society (Vancouver) [(Link)](http://pacificspiritparksociety.org/)
 
