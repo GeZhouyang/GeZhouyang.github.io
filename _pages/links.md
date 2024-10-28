@@ -21,7 +21,7 @@ author_profile: true
 
 * arXiv
 [flu-dyn](https://arxiv.org/list/physics.flu-dyn/recent),
-[cond-mat](https://arxiv.org/list/cond-mat.soft/recent)
+[cond-mat.soft](https://arxiv.org/list/cond-mat.soft/recent)
 * Phys. Rev.
 [E](https://journals.aps.org/pre/),
 [Fluids](https://journals.aps.org/prfluids/),
