@@ -24,7 +24,7 @@ Feel free to write to me if you cannot access the papers or have any questions.
 <li>
 Hydrodynamic diffusion in apolar active suspensions.<br>
 Ge, Zhouyang and Gwynn J. Elfring.<br>
-<a href="https://doi.org/10.48550/arXiv.2311.09448">arXiv:2311.09448.</a>
+To appear in <i>Journal of Fluid Mechanics</i>. <a href="https://doi.org/10.48550/arXiv.2311.09448">arXiv:2311.09448.</a>
 </li>
 
 </ol>
