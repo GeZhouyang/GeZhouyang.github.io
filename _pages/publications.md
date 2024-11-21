@@ -22,9 +22,15 @@ Feel free to write to me if you cannot access the papers or have any questions.
 <ol reversed>
 
 <li>
+Dense particle suspensions in rotary shear flows.<br>
+Agrawal, Naveen K., Zhouyang Ge, Martin Trulsson, Outi Tammisola, and Luca Brandt.<br>
+<a href="https://arxiv.org/pdf/2411.13463">arXiv:2411.13463.</a>
+</li>
+
+<li>
 Hydrodynamic diffusion in apolar active suspensions.<br>
 Ge, Zhouyang and Gwynn J. Elfring.<br>
-To appear in <i>Journal of Fluid Mechanics</i>. <a href="https://doi.org/10.48550/arXiv.2311.09448">arXiv:2311.09448.</a>
+To appear in <i>Journal of Fluid Mechanics</i>. <a href="https://arxiv.org/pdf/2311.09448">arXiv:2311.09448.</a>
 </li>
 
 </ol>
