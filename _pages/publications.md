@@ -24,13 +24,13 @@ Feel free to write to me if you cannot access the papers or have any questions.
 <li>
 Dense particle suspensions in rotary shear flows.<br>
 Agrawal, Naveen K., Zhouyang Ge, Martin Trulsson, Outi Tammisola, and Luca Brandt.<br>
-<a href="https://arxiv.org/pdf/2411.13463">arXiv:2411.13463.</a>
+Submitted to <i>Journal of Fluid Mechanics</i>, <a href="https://arxiv.org/pdf/2411.13463">arXiv:2411.13463.</a>
 </li>
 
 <li>
 Hydrodynamic diffusion in apolar active suspensions.<br>
 Ge, Zhouyang and Gwynn J. Elfring.<br>
-To appear in <i>Journal of Fluid Mechanics</i>. <a href="https://arxiv.org/pdf/2311.09448">arXiv:2311.09448.</a>
+To appear in <i>Journal of Fluid Mechanics</i>, <a href="https://arxiv.org/pdf/2311.09448">arXiv:2311.09448.</a>
 </li>
 
 </ol>
@@ -43,55 +43,55 @@ To appear in <i>Journal of Fluid Mechanics</i>. <a href="https://arxiv.org/pdf/2
 <li>
 Rheology of periodically sheared suspensions undergoing reversible-irreversible transition.<br>
 Ge, Zhouyang and Gwynn J. Elfring.<br>
-<a href="https://link.aps.org/doi/10.1103/PhysRevE.106.054616"><i>Physical Review E</i> 106, 054616 (2022).</a>
+<a href="https://link.aps.org/doi/10.1103/PhysRevE.106.054616"><i>Physical Review E</i>, 106, 054616 (2022).</a>
 </li>
 
 <li>
 Irreversibility and rate dependence in sheared adhesive suspensions.<br>
 Ge, Zhouyang, Raffaella Martone, Luca Brandt, and Mario Minale.<br>
-<a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.L101301"><i>Physical Review Fluids</i> 6, L101301 (2021).</a>
+<a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.L101301"><i>Physical Review Fluids</i>, 6, L101301 (2021).</a>
 </li>
 
 <li>
 A mass-preserving interface-correction level set/ghost fluid method for modeling of three-dimensional boiling flows.<br>
 Ningegowda, B.M., Zhouyang Ge, Giandomenico Lupo, Luca Brandt, and Christophe Duwig.<br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0017931020333184"><i>International Journal of Heat and Mass Transfer</i> 162, 120382 (2020).</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0017931020333184"><i>International Journal of Heat and Mass Transfer</i>, 162, 120382 (2020).</a>
 </li>
 
 <li>
 Theory of hydrodynamic interaction of two spheres in wall-bounded shear flow.<br>
 Fouxon, Itzhak, Boris Rubinstein, Zhouyang Ge, Luca Brandt, and Alexander Leshansky.<br>
-<a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.054101"><i>Physical Review Fluids</i> 5, 054101 (2020).</a>
+<a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.054101"><i>Physical Review Fluids</i>, 5, 054101 (2020).</a>
 </li>
 
 <li>
 Droplets in homogeneous shear turbulence.<br>
 Rosti, Marco E., Zhouyang Ge, Suhas S. Jain, Michael S. Dodd, and Luca Brandt.<br>
-<a href="https://doi.org/10.1017/jfm.2019.581"><i>Journal of Fluid Mechanics</i> 876, pp. 962-984 (2019).</a>
+<a href="https://doi.org/10.1017/jfm.2019.581"><i>Journal of Fluid Mechanics</i>, 876, pp. 962-984 (2019).</a>
 </li>
 
 <li>
 Flow-assisted droplet assembly in a 3D microfluidic channel.<br>
 Ge, Zhouyang, Outi Tammisola, and Luca Brandt.<br>
-<a href="https://doi.org/10.1039/C8SM02479K"><i>Soft Matter</i> 15, 3451-3460 (2019).</a>
+<a href="https://doi.org/10.1039/C8SM02479K"><i>Soft Matter</i>, 15, 3451-3460 (2019).</a>
 </li>
 
 <li>
 Effective slip over partially filled microcavities and its possible failure.<br>
 Ge, Zhouyang, Hanna Holmgren, Martin Kronbichler, Luca Brandt, and Gunilla Kreiss.<br>
-<a href="https://doi.org/10.1103/PhysRevFluids.3.054201"><i>Physical Review Fluids</i> 3, 054201 (2018).</a>
+<a href="https://doi.org/10.1103/PhysRevFluids.3.054201"><i>Physical Review Fluids</i>, 3, 054201 (2018).</a>
 </li>
 
 <li>
 An efficient mass-preserving interface-correction level set/ghost fluid method for droplet suspensions under depletion forces.<br>
 Ge, Zhouyang, Jean-Christophe Loiseau, Outi Tammisola, and Luca Brandt.<br>
-<a href="https://doi.org/10.1016/j.jcp.2017.10.046"><i>Journal of Computational Physics</i> 353, pp. 435-459 (2018).</a>
+<a href="https://doi.org/10.1016/j.jcp.2017.10.046"><i>Journal of Computational Physics</i>, 353, pp. 435-459 (2018).</a>
 </li>
 
 <li>
 Integral representation of channel flow with interacting particles.<br>
 Fouxon, Itzhak, Zhouyang Ge, Luca Brandt, and Alexander Leshansky.<br>
-<a href="https://doi.org/10.1103/PhysRevE.96.063110"><i>Physical Review E</i> 96, 063110 (2017).</a>
+<a href="https://doi.org/10.1103/PhysRevE.96.063110"><i>Physical Review E</i>, 96, 063110 (2017).</a>
 </li>
 
 </ol>
