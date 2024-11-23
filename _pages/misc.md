@@ -11,7 +11,7 @@ Some interesting articles, podcasts, and videos.
 * The Feynman Lectures on Physics (1961-1964) [(Link)](https://www.feynmanlectures.caltech.edu/)
 * Feynman's Messenger Lectures (1964) [(Link)](https://www.feynmanlectures.caltech.edu/messenger.html)
 * Cargo Cult Science -- R.P. Feynman (1974) [(Link)](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
-* Intelligent Machinery, A Heretical Theory -- A.M. Turing (1951) [(pdf)](https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Turing/Turing-1951%20Intelligent%20Machinery-a%20Heretical%20Theory.pdf)
+* Intelligent Machinery, A Heretical Theory -- A.M. Turing (1951) [(pdf)](/files/Turing1951.pdf)
 * A perspective of Batchelor’s research in micro-hydrodynamics -- E.J. Hinch (2010) [(pdf)](/files/Hinch_on_Batchelor2010.pdf)
 * Exponential Economist Meets Finite Physicist -- Tom Murphy [(Link)](https://dothemath.ucsd.edu/2012/04/economist-meets-physicist/)
 * Freakonomics, the hidden side of everything -- Stephen Dubner [(Link)](https://freakonomics.com/)
