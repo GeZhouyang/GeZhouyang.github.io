@@ -44,7 +44,6 @@ To appear in <i>Journal of Fluid Mechanics</i>, <a href="https://arxiv.org/pdf/2
 Rheology of periodically sheared suspensions undergoing reversible-irreversible transition.<br>
 Ge, Zhouyang and Gwynn J. Elfring.<br>
 <a href="https://link.aps.org/doi/10.1103/PhysRevE.106.054616"><i>Physical Review E</i>, 106, 054616 (2022).</a>
-[(pdf)](/files/PRE22_RIT.pdf)
 </li>
 
 <li>
