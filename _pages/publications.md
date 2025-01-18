@@ -27,12 +27,6 @@ Agrawal, Naveen K., Zhouyang Ge, Martin Trulsson, Outi Tammisola, and Luca Brand
 Submitted to <i>Journal of Fluid Mechanics</i>, <a href="https://arxiv.org/pdf/2411.13463">arXiv:2411.13463.</a>
 </li>
 
-<li>
-Hydrodynamic diffusion in apolar active suspensions.<br>
-Ge, Zhouyang and Gwynn J. Elfring.<br>
-To appear in <i>Journal of Fluid Mechanics</i>, <a href="https://arxiv.org/pdf/2311.09448">arXiv:2311.09448.</a>
-</li>
-
 </ol>
 
 
@@ -41,10 +35,15 @@ To appear in <i>Journal of Fluid Mechanics</i>, <a href="https://arxiv.org/pdf/2
 <ol reversed>
 
 <li>
+Hydrodynamic diffusion in apolar active suspensions of squirmers.<br>
+Ge, Zhouyang and Gwynn J. Elfring.<br>
+<a href="https://doi.org/10.1017/jfm.2024.1071"><i>Journal of Fluid Mechanics</i>, 1003, A17 (2025).</a>
+</li>
+
+<li>
 Rheology of periodically sheared suspensions undergoing reversible-irreversible transition.<br>
 Ge, Zhouyang and Gwynn J. Elfring.<br>
 <a href="https://link.aps.org/doi/10.1103/PhysRevE.106.054616"><i>Physical Review E</i>, 106, 054616 (2022).</a>
-<a href="/files/PRE22_RIT.pdf">(pdf)</a>
 </li>
 
 <li>
@@ -81,14 +80,12 @@ Ge, Zhouyang, Outi Tammisola, and Luca Brandt.<br>
 Effective slip over partially filled microcavities and its possible failure.<br>
 Ge, Zhouyang, Hanna Holmgren, Martin Kronbichler, Luca Brandt, and Gunilla Kreiss.<br>
 <a href="https://doi.org/10.1103/PhysRevFluids.3.054201"><i>Physical Review Fluids</i>, 3, 054201 (2018).</a>
-<a href="/files/PRF18_LIS.pdf">(pdf)</a>
 </li>
 
 <li>
 An efficient mass-preserving interface-correction level set/ghost fluid method for droplet suspensions under depletion forces.<br>
 Ge, Zhouyang, Jean-Christophe Loiseau, Outi Tammisola, and Luca Brandt.<br>
 <a href="https://doi.org/10.1016/j.jcp.2017.10.046"><i>Journal of Computational Physics</i>, 353, pp. 435-459 (2018).</a>
-<a href="/files/JCP18_ICLS.pdf">(pdf)</a>
 </li>
 
 <li>
