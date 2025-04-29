@@ -18,11 +18,10 @@ KTH Royal Institute of Technology, 100 44 Stockholm, Sweden
 ## Positions
 
 * Postdoctoral Research Fellow
-    * University of British Columbia, Vancouver, BC, Canada (09/2023 - Present)
     * {{site.data.education.PhD.university}} (06/2022 - Present)
-    * University of British Columbia, Vancouver, BC, Canada (11/2020 - 05/2022)
+    * University of British Columbia, Vancouver, BC, Canada (11/2020 - Present)
 
-* Research Engineer
+* Researcher
   * {{site.data.education.PhD.university}} (04/2020 - 11/2020)
 
 ## Education
@@ -33,6 +32,7 @@ KTH Royal Institute of Technology, 100 44 Stockholm, Sweden
 
 * {{site.data.education.MS.university}} (05/2015)
   * M.S. in {{site.data.education.MS.major}}
+  * Advisors: [Profs. Eva Kanso](https://sites.usc.edu/kansolab/) and [Veronica Eliasson](https://eliasson.mines.edu/)
 
 * {{site.data.education.BEng.university}} (06/2013)
     * B.Eng. in {{site.data.education.BEng.major}}, graduated with honor.
@@ -51,3 +51,4 @@ KTH Royal Institute of Technology, 100 44 Stockholm, Sweden
 ## Membership
 
 * American Physical Society (APS)
+* Society of Rheology (SOR)

@@ -13,7 +13,8 @@ author_profile: true
 * JFM Webinar Series [(Link)](https://cassyni.com/s/fmws/seminars)
 * JNNFM + JoR + RA Seminar Series [(Link)](http://pcwww.liv.ac.uk/~robpoole/jnnfm/jnnfm_seminar.htm)
 * LMFL Fluid Mechanics Webinar [(Link)](https://lmfl.cnrs.fr/en/the-laboratory/webinar/)
-* klogW talks (2020-2022) [(Link)](https://gsnpaps.wixsite.com/home)
+* SLAAM Seminars [(Link)](https://sites.google.com/view/slaamseminars/home)
+* klogW talks (2020-2024) [(Link)](https://gsnpaps.wixsite.com/home)
 * Boulder School 2022: Hydrodynamics Across Scales [(Link)](https://www.youtube.com/playlist?list=PL8mMEmoXNBfaFV2wA4lDD7j_f2l7BTYIV)
 * KITP Program (2018): Physics of Dense Suspensions [(Link)](https://online.kitp.ucsb.edu/online/suspensions18/)
 
@@ -32,7 +33,7 @@ author_profile: true
 
 ## Communities
 
-* Linné FLOW Centre (KTH) [(Link)](https://www.flow.kth.se/about-flow)
+* FLOW Centre (KTH) [(Link)](https://www.flow.kth.se/)
 * Nordic Institute for Theoretical Physics [(Link)](https://www.nordita.org/)
 * Institute of Applied Mathematics (UBC) [(Link)](https://www.iam.ubc.ca/)
 * UBC Fluids Seminar (fall 2023) [(list)](/ubc-fluids/)
