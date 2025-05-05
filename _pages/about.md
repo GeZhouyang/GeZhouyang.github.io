@@ -15,7 +15,7 @@ My research is at the intersection of complex fluids, multiphase flow, and activ
 Specifically, I study particle suspensions -- the "simplest" complex fluids that display a multitude of
 interesting phenomena such as self-organization, enhanced diffusion, or even "superfluidic" rheologies.
 The main question my research tries to answer is "_How do hydrodynamic interactions affect those behaviors?_"
-Addressing this question is not only of fundamental physical interest (nonequilibrium statistical mechanics),
+Addressing this question is not only of fundamental physical interest,
 but also has practical implications in applications as diverse as directed drug delivery and biofuel production.
 
 I develop and use advanced numerical solvers to simulate the dynamics of complex and active fluids.
