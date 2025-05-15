@@ -2,7 +2,7 @@
 layout: archive
 title: "People"
 permalink: /people/
-author_profile: true
+author_profile: false
 ---
 
 <!-- {% if site.author.googlescholar %}
@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Students that I have advised, co-advised, or collaborated with as a advisor:
+Students that I have advised, co-advised, or collaborated with as an advisor:
 
 ### Present
 
