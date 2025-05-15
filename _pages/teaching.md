@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Courses that I helped taught and students that I help advised. 
-
 ### Introduction of Diffusion (ISW, Winter 2023, UBC)
 
 Over four weekends in November and December 2023, I participated in a postdoc instructional skills workshop (ISW)
@@ -35,8 +33,7 @@ Aerospace/Vehicle Engineering students at KTH (mainly BSc level).
 Each lab took 2-3 hours and involved 3-5 students.
 My role as the lab instructor was to help the students connect the theory to reality,
 as well as to make sure they were safe during the experiments.
-
-Fun fact: We were interviewed by the Swedish National TV during one
+*Fun fact*: We were interviewed by the Swedish National TV during one
 [experiment](/images/svt_kth_lab.png)!
 
 ### Dynamics of Fluids (AME 309, 2014-2015, USC)
