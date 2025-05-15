@@ -22,6 +22,12 @@ Feel free to write to me if you cannot access the papers or have any question.
 <ol reversed>
 
 <li>
+Nonmonotonic diffusion in sheared active suspensions of squirmers.<br>
+Ge, Zhouyang, John F. Brady, and Gwynn J. Elfring.<br>
+<a href="https://arxiv.org/pdf/2505.09457">arXiv:2505.09457.</a>
+</li>
+
+<li>
 Dense particle suspensions in rotary shear flows.<br>
 Agrawal, Naveen K., Zhouyang Ge, Martin Trulsson, Outi Tammisola, and Luca Brandt.<br>
 Submitted to <i>Journal of Fluid Mechanics</i>, <a href="https://arxiv.org/pdf/2411.13463">arXiv:2411.13463.</a>
