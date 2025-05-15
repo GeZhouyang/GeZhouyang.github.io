@@ -30,7 +30,7 @@ Ge, Zhouyang, John F. Brady, and Gwynn J. Elfring.<br>
 <li>
 Dense particle suspensions in rotary shear flows.<br>
 Agrawal, Naveen K., Zhouyang Ge, Martin Trulsson, Outi Tammisola, and Luca Brandt.<br>
-Submitted to <i>Journal of Fluid Mechanics</i>, <a href="https://arxiv.org/pdf/2411.13463">arXiv:2411.13463.</a>
+<a href="https://arxiv.org/pdf/2411.13463">arXiv:2411.13463.</a>
 </li>
 
 </ol>
