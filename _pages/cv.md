@@ -17,12 +17,12 @@ School of Frontier Sciences, Nanjing University, Suzhou 215163, China
 * Assistant Professor (09/2025 - Present)
   * Nanjing University, Suzhou, China
   
-* Postdoctoral Research Fellow
+* Postdoctoral Research Fellow (11/2020 - 05/2025)
   * {{site.data.education.PhD.university}} (06/2022 - 05/2025)
   * University of British Columbia, Vancouver, BC, Canada (11/2020 - 05/2025)
 
-* Researcher
-  * {{site.data.education.PhD.university}} (04/2020 - 11/2020)
+* Researcher (04/2020 - 11/2020)
+  * {{site.data.education.PhD.university}}
 
 ## Education
 

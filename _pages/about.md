@@ -10,13 +10,13 @@ redirect_from:
 
 I am an assistant professor in fluid mechanics at Nanjing University in Suzhou, China.
 Previously, I was a postdoc at the University of British Columbia in Vancouver, Canada,
-and a PhD student at KTH Royal Institute of Technology in Stockholm, Sweden.
+and KTH Royal Institute of Technology in Stockholm, Sweden.
 
 My current research is at the intersection of complex fluids, multiphase flow, and active matter.
 Specifically, I am interested in particle suspensions -- the "simplest" complex fluids that display a multitude of
 interesting phenomena such as self-organization, enhanced diffusion, or even "superfluidic" rheologies.
-The main question my research tries to answer is "_How do hydrodynamic interactions affect those behaviors?_"
-Addressing this question is not only of fundamental physical interest,
+The main focus of my research is to understand how hydrodynamic interactions affect those behaviors.
+Understanding this relationship is not only of fundamental physical interest,
 but also has practical implications in applications as diverse as directed drug delivery and biofuel production.
 
 I develop and use advanced numerical solvers to simulate the dynamics of complex and active fluids.
