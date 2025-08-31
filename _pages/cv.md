@@ -14,29 +14,17 @@ School of Frontier Sciences, Nanjing University, Suzhou 215163, China
 
 ## Positions
 
-* Assistant Professor (09/2025 - Present)
-  * Nanjing University, Suzhou, China
-  
-* Postdoctoral Research Fellow (11/2020 - 05/2025)
-  * {{site.data.education.PhD.university}} (06/2022 - 05/2025)
-  * University of British Columbia, Vancouver, BC, Canada (11/2020 - 05/2025)
-
-* Researcher (04/2020 - 11/2020)
-  * {{site.data.education.PhD.university}}
+* Assistant Professor, Nanjing University, Suzhou, China (09/2025 - Present)
+* Postdoc, {{site.data.education.PhD.university}} (06/2022 - 05/2025)
+* Postdoc, University of British Columbia, Vancouver, BC, Canada (11/2020 - 05/2025)
+* Researcher, {{site.data.education.PhD.university}} (04/2020 - 11/2020)
 
 ## Education
 
-* {{site.data.education.PhD.university}} (04/2020)
-  * Ph.D. in {{site.data.education.PhD.major}}
-  * Advisors: [Profs. Luca Brandt](https://www.mech.kth.se/~luca/) and [Outi Tammisola](https://www.mech.kth.se/mech/info_staff.xhtml?ID=219)
-
-* {{site.data.education.MS.university}} (05/2015)
-  * M.S. in {{site.data.education.MS.major}}
-  * Advisors: [Profs. Eva Kanso](https://sites.usc.edu/kansolab/) and [Veronica Eliasson](https://eliasson.mines.edu/)
-
-* {{site.data.education.BEng.university}} (06/2013)
-    * B.Eng. in {{site.data.education.BEng.major}}, graduated with honor.
-
+* PhD, {{site.data.education.PhD.university}} (04/2020)
+* MS, {{site.data.education.MS.university}} (05/2015)
+* BEng, {{site.data.education.BEng.university}} (06/2013)
+ 
 ## Awards
 
 * Tetra Pak Award in Computational Fluid Dynamics, Swedish National Committee for Mechanics (2019) [(Link)](https://nkmek.wordpress.com/doktorandpriser/)
