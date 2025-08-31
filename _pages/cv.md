@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Department of Mechanical Engineering & Institute of Applied Mathematics <br>
-University of British Columbia, Vancouver, BC, V6T 1Z4, Canada
-
-FLOW & Department of Engineering Mechanics <br>
-KTH Royal Institute of Technology, 100 44 Stockholm, Sweden
+Institute of Functional Materials and Intelligent Manufacturing <br>
+School of Frontier Sciences, Nanjing University, Suzhou 215163, China
 
 ## Positions
 
+* Assistant Professor (09/2025 - Present)
+  * Nanjing University, Suzhou, China
+  
 * Postdoctoral Research Fellow
-    * {{site.data.education.PhD.university}} (06/2022 - Present)
-    * University of British Columbia, Vancouver, BC, Canada (11/2020 - Present)
+  * {{site.data.education.PhD.university}} (06/2022 - 05/2025)
+  * University of British Columbia, Vancouver, BC, Canada (11/2020 - 05/2025)
 
 * Researcher
   * {{site.data.education.PhD.university}} (04/2020 - 11/2020)

@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in fluid mechanics at the University of British Columbia in Vancouver, Canada.
-Officially, I am also affiliated with KTH Royal Institute of Technology in Stockholm, Sweden.
+I am an assistant professor in fluid mechanics at Nanjing University in Suzhou, China.
+Previously, I was a postdoc at the University of British Columbia in Vancouver, Canada,
+and a PhD student at KTH Royal Institute of Technology in Stockholm, Sweden.
 
-My research is at the intersection of complex fluids, multiphase flow, and active matter.
-Specifically, I study particle suspensions -- the "simplest" complex fluids that display a multitude of
+My current research is at the intersection of complex fluids, multiphase flow, and active matter.
+Specifically, I am interested in particle suspensions -- the "simplest" complex fluids that display a multitude of
 interesting phenomena such as self-organization, enhanced diffusion, or even "superfluidic" rheologies.
 The main question my research tries to answer is "_How do hydrodynamic interactions affect those behaviors?_"
 Addressing this question is not only of fundamental physical interest,
@@ -23,9 +24,9 @@ The programs I use are all open-source (see the Github page) and I am happy to h
 
 
 ## Profile
-
-* Current position: Postdoctoral research fellow
-* Hosts: Profs. [Gwynn Elfring](https://soft.mech.ubc.ca/) (UBC) and [Shervin Bagheri](https://www.bagherigroup.com/) (KTH)
+ 
+* Position: Tenure-track assistant professor
+* Unit: Institute of Functional Materials and Intelligent Manufacturing
 * Research areas: Complex fluids, Multiphase flow, Active matter
 * Methodology: Computational
 
