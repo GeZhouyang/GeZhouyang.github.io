@@ -23,12 +23,10 @@ I develop and use advanced numerical solvers to simulate the dynamics of complex
 The programs I use are all open-source (see the Github page) and I am happy to help if you have any question.
 
 
-## Profile
+## Opening
  
-* Position: Tenure-track assistant professor
-* Unit: Institute of Functional Materials and Intelligent Manufacturing
-* Research areas: Complex fluids, Multiphase flow, Active matter
-* Methodology: Computational
+If you are interested in working with me, feel free to drop me an email briefly describing yourself.
+All backgrounds, genders, nationalities, and age are welcome!
 
 
 ## Gallery
