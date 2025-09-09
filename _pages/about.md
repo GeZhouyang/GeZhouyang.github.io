@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome"
-excerpt: "Researcher in fluid mechanics"
+excerpt: "Asst Prof in fluid mechanics"
 author_profile: true
 redirect_from:
   - /about/
@@ -25,7 +25,7 @@ The programs I use are all open-source (see the Github page) and I am happy to h
 
 ## Opening
  
-If you are interested in working with me, feel free to drop me an email briefly describing yourself.
+If you are interested in working with me, feel free to drop me an email briefly describing yourself and your research interests.
 All backgrounds, genders, nationalities, and age are welcome!
 
 

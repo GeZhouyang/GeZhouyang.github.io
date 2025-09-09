@@ -27,19 +27,18 @@ Ge, Zhouyang, John F. Brady, and Gwynn J. Elfring.<br>
 <a href="https://arxiv.org/pdf/2505.09457">arXiv:2505.09457.</a>
 </li>
 
-<li>
-Dense particle suspensions in rotary shear flows.<br>
-Agrawal, Naveen K., Zhouyang Ge, Martin Trulsson, Outi Tammisola, and Luca Brandt.<br>
-<a href="https://arxiv.org/pdf/2411.13463">arXiv:2411.13463.</a>
-To appear in <i>Journal of Fluid Mechanics</i>.
-</li>
-
 </ol>
 
 
 ### Peer-reviewed journal articles
 
 <ol reversed>
+
+<li>
+Rheology and dynamics of dense particle suspensions in rotary shear flows.<br>
+Agrawal, Naveen K., Zhouyang Ge, Martin Trulsson, Outi Tammisola, and Luca Brandt.<br>
+<a href="https://doi.org/10.1017/jfm.2025.10535"><i>Journal of Fluid Mechanics</i>, 1018, A51 (2025).</a>
+</li>
 
 <li>
 Hydrodynamic diffusion in apolar active suspensions of squirmers.<br>
