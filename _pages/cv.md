@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Institute of Functional Materials and Intelligent Manufacturing <br>
-School of Frontier Sciences, Nanjing University, Suzhou 215163, China
+School of Materials Science and Intelligent Engineering <br>
+Nanjing University, Suzhou 215163, China
 
 ## Positions
 
