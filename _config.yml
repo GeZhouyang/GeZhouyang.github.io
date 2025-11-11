@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhouyang Ge（葛洲扬）"
 title_separator          : "-"
-name                     : &name "Zhouyang Ge（葛洲扬）"
+name                     : &name "Zhouyang Ge"
 description              : &description "personal description"
 url                      : https://gezhouyang.github.io # the base hostname & protocol for your site e.g. "https://gezhouyang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhouyang Ge"
+  name             : "Zhouyang Ge（葛洲扬）"
   avatar           : "self_bowen.png"
   bio              : "Asst Prof in fluid mechanics"
   location         : "Suzhou, China"
