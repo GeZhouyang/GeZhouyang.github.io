@@ -33,6 +33,7 @@ author_profile: true
 
 ## Communities
 
+* [中国力学学会](https://www.cstam.org.cn/index.html)
 * [Institute of Applied Mathematics](https://www.iam.ubc.ca/) (UBC)
 * [FLOW Centre](https://www.flow.kth.se/) (KTH)
 * [St John's College](https://stjohns.ubc.ca/) (UBC) 

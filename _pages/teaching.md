@@ -15,7 +15,7 @@ The workshop focused on the theory and practice of evidence-based teaching techn
 where we learned various elements of learner-centred lesson design and taught three short lessons to each other.
 My topic was about diffusion (Brownian motion, the Stokes-Einstein equation, and the kinetic theory),
 and I was teaching it to an audience from diverse disciplines (from biology to psychology).
-Overall, it was an engaging and helpful workshop.
+Overall, it was an engaging and helpful workshop!
 
 ### Applications of Classical Mechanics (PHYS 350, Winter 2022, UBC)
 
@@ -65,7 +65,7 @@ Next: MSc student at KTH.
 </li>
 
 <li>
-<b>Naveen Kumar Agrawal</b>, PhD student, KTH (2021.10-)<br>
+<b>Naveen Kumar Agrawal</b>, PhD student, KTH (2021.10-2025.05)<br>
 Topic: Suspension rheology and dynamics (coadvised with Profs. Luca Brandt and Outi Tammisola).
 </li>
 

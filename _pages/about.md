@@ -16,8 +16,8 @@ My current research is at the intersection of complex fluids, multiphase flow, a
 Specifically, I am interested in particle suspensions -- the "simplest" complex fluids that display a multitude of
 interesting phenomena such as self-organization, enhanced diffusion, or even "superfluidic" rheologies.
 The main focus of my research is to understand how hydrodynamic interactions affect those behaviors.
-Understanding this relationship is not only of fundamental physical interest,
-but also has practical implications in applications as diverse as directed drug delivery and biofuel production.
+This is a rapidly developing area not only of fundamental physical interest,
+but also with practical implications in applications as diverse as directed drug delivery and biofuel production.
 
 I develop and use advanced numerical solvers to simulate the dynamics of complex and active fluids.
 The programs I use are all open-source (see the Github page) and I am happy to help if you have any question.
@@ -25,7 +25,8 @@ The programs I use are all open-source (see the Github page) and I am happy to h
 
 ## Opening
  
-If you are interested in working with me, feel free to drop me an email briefly describing yourself and your research interests.
+I am looking for a postdoc (more info [here](files/postdoc_active_fluids_NJU.pdf)) and prospective students to join me in Suzhou.
+If you are interested, feel free to drop me an email briefly describing yourself and your research experience.
 All backgrounds, genders, nationalities, and age are welcome!
 
 

@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhouyang Ge, PhD"
+title                    : "Zhouyang Ge（葛洲扬）"
 title_separator          : "-"
-name                     : &name "Zhouyang Ge"
+name                     : &name "Zhouyang Ge（葛洲扬）"
 description              : &description "personal description"
 url                      : https://gezhouyang.github.io # the base hostname & protocol for your site e.g. "https://gezhouyang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
