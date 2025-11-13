@@ -25,6 +25,7 @@ Feel free to write to me if you cannot access the papers or have any question.
 Nonmonotonic diffusion in sheared active suspensions of squirmers.<br>
 Ge, Zhouyang, John F. Brady, and Gwynn J. Elfring.<br>
 <a href="https://arxiv.org/pdf/2505.09457">arXiv:2505.09457.</a>
+(to appear in <a href="https://doi.org/10.1103/54qq-1s51"><i>Physical Review Letters</i></a>)
 </li>
 
 </ol>
