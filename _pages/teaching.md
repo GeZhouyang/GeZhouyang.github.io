@@ -65,7 +65,7 @@ Next: MSc student at KTH.
 
 <li>
 <b>Naveen Kumar Agrawal</b>, PhD student, KTH (2021.10-2025.05)<br>
-Topic: Suspension rheology and dynamics (coadvised with Profs. Luca Brandt and Outi Tammisola).
+Topic: Suspension rheology and dynamics (coadvised with Profs. Luca Brandt and Outi Tammisola).<br>
 Next: Continuing PhD at KTH.
 </li>
 
