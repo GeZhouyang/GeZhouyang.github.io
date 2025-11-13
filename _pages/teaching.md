@@ -33,8 +33,7 @@ Aerospace/Vehicle Engineering students at KTH (mainly BSc level).
 Each lab took 2-3 hours and involved 3-5 students.
 My role as the lab instructor was to help the students connect the theory to reality,
 as well as to make sure they were safe during the experiments.
-*Fun fact*: We were interviewed by the Swedish National TV during one
-[experiment](/images/svt_kth_lab.png)!
+*Fun fact*: We were interviewed by the [Swedish National TV](/images/svt_kth_lab.png) during one experiment!
 
 ### Dynamics of Fluids (AME 309, 2014-2015, USC)
 
@@ -67,6 +66,7 @@ Next: MSc student at KTH.
 <li>
 <b>Naveen Kumar Agrawal</b>, PhD student, KTH (2021.10-2025.05)<br>
 Topic: Suspension rheology and dynamics (coadvised with Profs. Luca Brandt and Outi Tammisola).
+Next: Continuing PhD at KTH.
 </li>
 
 <li>
