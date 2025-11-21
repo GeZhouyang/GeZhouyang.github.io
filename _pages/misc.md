@@ -10,9 +10,10 @@ Some interesting articles, podcasts, and videos.
 
 * The Feynman Lectures on Physics (1961-1964) [(Link)](https://www.feynmanlectures.caltech.edu/)
 * Feynman's Messenger Lectures (1964) [(Link)](https://www.feynmanlectures.caltech.edu/messenger.html)
-* Cargo Cult Science -- R.P. Feynman (1974) [(Link)](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
-* Intelligent Machinery, A Heretical Theory -- A.M. Turing (1951) [(pdf)](/files/Turing1951.pdf)
-* A perspective of Batchelor’s research in micro-hydrodynamics -- E.J. Hinch (2010) [(pdf)](/files/Hinch_on_Batchelor2010.pdf)
+* Cargo Cult Science -- Richard Feynman (1974) [(Link)](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
+* Intelligent Machinery, A Heretical Theory -- Alan Turing (1951) [(pdf)](/files/Turing1951.pdf)
+* Birds and Frogs -- Freeman Dyson (2008) [(link)](https://www.ams.org/notices/200902/rtx090200212p.pdf)
+* A perspective of Batchelor’s research in micro-hydrodynamics -- John Hinch (2010) [(pdf)](/files/Hinch_on_Batchelor2010.pdf)
 * Exponential Economist Meets Finite Physicist -- Tom Murphy [(Link)](https://dothemath.ucsd.edu/2012/04/economist-meets-physicist/)
 * Freakonomics, the hidden side of everything -- Stephen Dubner [(Link)](https://freakonomics.com/)
 * Gateway to astronaut photography of Earth [(Link)](https://eol.jsc.nasa.gov/Videos/CrewEarthObservationsVideos/NorthAmerica.htm)
