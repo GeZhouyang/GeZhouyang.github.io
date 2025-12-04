@@ -10,11 +10,11 @@ author_profile: true
 ## Talks
 
 * [JFM](https://cassyni.com/s/fmws/seminars) Webinar Series
-* [Physical Review](https://journals.aps.org/journal-club) Journal Club 
-* [JNNFM + JoR + RA](http://pcwww.liv.ac.uk/~robpoole/jnnfm/jnnfm_seminar.htm) Seminar Series 
+* [Phys Rev](https://journals.aps.org/journal-club) Journal Club 
 * [LMFL](https://lmfl.cnrs.fr/en/the-laboratory/webinar/) Fluid Mechanics Webinar 
 * [SLAAM](https://sites.google.com/view/slaamseminars/home) Seminars
 * [klogW](https://gsnpaps.wixsite.com/home) talks (2020-2024) 
+* [JNNFM + JoR + RA (2020-2025)](http://pcwww.liv.ac.uk/~robpoole/jnnfm/jnnfm_seminar.htm) Seminar Series 
 * [Boulder School (2022)](https://www.youtube.com/playlist?list=PL8mMEmoXNBfaFV2wA4lDD7j_f2l7BTYIV): Hydrodynamics Across Scales 
 * [KITP Program (2018)](https://online.kitp.ucsb.edu/online/suspensions18/): Physics of Dense Suspensions 
 
