@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in fluid mechanics at Nanjing University in Suzhou, China.
+I am an assistant professor of fluid mechanics at Nanjing University in Suzhou, China.
 Previously, I was a postdoc at the University of British Columbia in Vancouver, Canada,
 and KTH Royal Institute of Technology in Stockholm, Sweden.
 
@@ -17,7 +17,7 @@ Specifically, I am interested in particle suspensions -- the "simplest" complex 
 interesting phenomena such as self-organization, enhanced diffusion, or even "superfluidic" rheologies.
 The main focus of my research is to understand how hydrodynamic interactions affect those behaviors.
 This is a rapidly developing area not only of fundamental physical interest,
-but also with practical implications in applications as diverse as directed drug delivery and biofuel production.
+but also with practical implications in applications as diverse as directed drug delivery and microrobot navigation.
 
 I develop and use advanced numerical solvers to simulate the dynamics of complex and active fluids.
 The programs I use are all open-source (see the Github page) and I am happy to help if you have any question.
