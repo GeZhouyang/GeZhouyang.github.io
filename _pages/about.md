@@ -25,7 +25,7 @@ The programs I use are all open-source (see the Github page) and I am happy to h
 
 ## Opening
  
-I am looking for a postdoc (more info [here](files/postdoc_active_fluids_NJU.pdf)) to join me in Suzhou.
+I am looking for a postdoc (more info [here](files/postdoc_ad.pdf)) to join me in Suzhou.
 If you are interested, feel free to drop me an email briefly describing yourself and your research experience.
 All backgrounds, genders, nationalities, and age are welcome! (Students are always welcome to contact me for
 potential internships and PhD positions.)
