@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-School of Materials Science and Intelligent Engineering <br>
+School of Advanced Manufacturing Engineering <br>
 Nanjing University, Suzhou 215163, China
 
 ## Positions
