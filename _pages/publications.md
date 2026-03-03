@@ -18,6 +18,19 @@ author_profile: true
 Feel free to write to me if you cannot access the papers or have any question.
 
 
+### Preprints
+
+<ol reversed>
+
+<li>
+Dissipation and microstructure in sheared active suspensions of squirmers<br>
+Ge, Zhouyang and Gwynn J. Elfring<br>
+<a href="https://arxiv.org/abs/2603.00392">arXiv:2603.00392 (2026)</a>
+</li>
+
+</ol>
+
+
 ### Peer-reviewed journal articles
 
 <ol reversed>
