@@ -23,11 +23,6 @@ I develop and use advanced numerical solvers to simulate the dynamics of complex
 The programs I use are all open-source (see the Github page) and I am happy to help if you have any question.
 
 
-## Opening
- 
-I am looking for a postdoc (more info [here](files/postdoc_ad.pdf)) to join me in Suzhou.
-If you are interested, feel free to drop me an email briefly describing yourself and your research experience.
-
 ## Gallery
 
 ![squirmers](images/phi40-lattice-rand-ori.png "Squirmers")
