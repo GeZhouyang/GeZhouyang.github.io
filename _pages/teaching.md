@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+### Microhydrodynamics: Principles and Applications (Fall 2026, NJU)
+
+A graduate-level course on low Reynolds number hydrodynamics for students without fluid mechanics background.
+The focus is on building physical intuition and problem solving skills through real-world examples and projects.
+Teaching materials are uploaded to the university platform.
+
 ### Introduction of Diffusion (ISW, Winter 2023, UBC)
 
 Over four weekends in November and December 2023, I participated in a postdoc instructional skills workshop (ISW)
@@ -41,38 +47,3 @@ This was an undergraduate course on fluid dynamics.
 I was grading the homework assignments of around 50 students
 for Prof. [Veronica Eliasson](http://eliasson.mines.edu/)
 and Dr. David C. Wilcox (inventor of the _k-ω_ model), respectively.
-
-## Mentees
-
-<ol reversed>
-
-<li>
-<b>Ricardo Tavares Domingos</b>, MSc student, UBC (2024.09-)<br>
-Topic: Fast Stokesian Dynamics (coadvised with Prof. Gwynn Elfring).
-</li>
-
-<li>
-<b>Giovanni Ferraresso</b>, BSc student, UBC (2023.09-2024.05)<br>
-Topic: Surface tension driven flows (coadvised with Prof. Gwynn Elfring).<br>
-Next: MSc student at UBC.
-</li>
-
-<li>
-<b>Tim Berglund</b>, BSc student, KTH (2023.01-2025.05)<br>
-Topic: Solute transport in biofilms.<br>
-Next: MSc student at KTH.
-</li>
-
-<li>
-<b>Naveen Kumar Agrawal</b>, PhD student, KTH (2021.10-2025.05)<br>
-Topic: Suspension rheology and dynamics (coadvised with Profs. Luca Brandt and Outi Tammisola).<br>
-Next: Continuing PhD at KTH.
-</li>
-
-<li>
-<b>Salar Zamani Salimi</b>, MSc student, KTH (2020.06-2021.06)<br>
-Topic: Numerical simulations of dense suspensions (coadvised with Prof. Luca Brandt)<br>
-Next: PhD student Norwegian University of Science and Technology.
-</li>
-
-</ol>

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhouyang Ge（葛洲扬）"
+title                    : "Fluids Group @ NJU"
 title_separator          : "-"
 name                     : &name "Zhouyang Ge"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhouyang Ge, PhD"
+  name             : "Zhouyang Ge (葛洲扬)"
   avatar           : "self_bowen.png"
-  bio              : "Asst Prof of fluid mechanics"
+  bio              : "Assistant Professor"
   location         : "Suzhou, China"
   employer         : #"University of British Columbia"
   affiliation      : "Department of Mechanical Engineering and Institute of Applied Mathematics"
